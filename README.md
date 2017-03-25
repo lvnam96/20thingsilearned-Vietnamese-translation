@@ -1,20 +1,21 @@
-###Nhóm dịch:
->Khung này sẽ đặt lời nhắn của nhóm dịch. Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó.
->Bài viết được dịch không theo văn phong viết, nhằm mục đích dịch dễ hiểu nhất có thể cho các bạn. Nếu bạn không hiểu, có thể góp ý với nhóm dịch, hoặc ráng đoán nghĩa nếu bạn lười góp ý.
+### Ghi chú từ nhóm dịch:
+>- Khung này sẽ đặt lời nhắn của nhóm dịch :sunglasses:. Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó. 
+>- Bài viết được dịch không theo văn phong của bài viết gốc, nhằm mục đích dịch dễ hiểu nhất có thể cho bạn. Nếu bạn không hiểu, bạn có thể chửi.
+>- Bài viết này được xuất bản vào năm 2010, từ đó đến nay là một khoảng thời gian khá dài, do đó nội dung trong bài viết cũng sẽ có những thông tin lỗi thời, nhóm dịch sẽ thay thế, cập nhật lại và bổ sung thêm những thông tin cần thiết khác cho bạn.
 
 # LỜI TỰA
 
->Trong phần này, chúng tôi (nhóm dịch) đã lược bỏ 1 đoạn không cần thiết để các bạn có thể nắm được các ý chính của bài viết này trong thời gian nhanh nhất.
+>Trong chương này, nhóm dịch đã lược bỏ 1 đoạn không cần thiết để bạn có thể nắm được các ý chính của bài viết trong thời gian nhanh nhất.
 
 Ngày nay rất nhiều người trong chúng ta phụ thuộc vào World Wide Web để mang lượng thông tin trên toàn thế giới về trong tầm tay của chúng ta, giúp chúng ta kết nối với mọi người và các sự kiện toàn cầu một cách tức thì.
 
-Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ vào web (mạng), thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt web của bất kì thiết bị nào có kết nối Internet trên thế giới.
+Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ có web, thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt (browser) của bất kì thiết bị nào có kết nối Internet trên thế giới.
 
 Nhưng web và các trình duyệt của chúng ta thực sự hoạt động như thế nào? Làm thế nào để World Wide Web đã phát triển thành thứ mà hiện tại chúng ta không thể sống thiếu nó? Và chúng ta cần biết những gì để "lướt" web an một cách an toàn và hiệu quả?
 
-"20 Điều tôi đã học được về trình duyệt và web" (Tên gốc: "20 Things I Learned About Browsers and the Web") là một hướng dẫn ngắn gọn cho những ai quan tâm đến những điều cơ bản của các trình duyệt và web. Đây là những gì các bạn sẽ tìm thấy được trong bài viết này:
+"20 Điều tôi đã học được về trình duyệt và web" (Tên gốc: "20 Things I Learned About Browsers and the Web") là một hướng dẫn ngắn gọn cho những ai quan tâm đến những điều cơ bản về các trình duyệt và web. Đây là những gì các bạn sẽ tìm thấy được trong bài viết này:
 
-Đầu tiên chúng ta sẽ tìm hiểu về Internet, điều cốt lõi cho phép web có thể tồn tại. Chúng ta cũng sẽ tìm hiểu ngày nay web được sử dụng như thế nào, thông qua cloud computing và các ứng dụng web.
+Đầu tiên chúng ta sẽ tìm hiểu về Internet, điều cốt lõi cho phép web có thể tồn tại. Chúng ta cũng sẽ tìm hiểu ngày nay web được sử dụng như thế nào, thông qua điện toán đám mây (cloud computing) và các ứng dụng web (web apps).
 
 Sau đó, chúng tôi sẽ giới thiệu những "viên gạch" dùng để xây dựng nên các trang web, ví dụ như HTML và JavaScript, và xem lại sự phát triển của chúng đã thay đổi các trang web chúng ta truy cập mỗi ngày như thế nào. Chúng ta cũng sẽ nhìn sơ qua các trình duyệt hiện đại ngày nay và cách chúng giúp người dụng truy cập web một cách an toàn và bảo mật hơn.
 
@@ -24,62 +25,75 @@ Chúng tôi hy vọng bạn sẽ tìm thấy sự hứng thú để đọc bài 
 
 Truy cập vui vẻ nhé!
 
-
 The Google Chrome Team, và đặc biệt gửi lời cảm ơn đến Christoph Niemann vì những tấm hình minh hoạ của anh ấy.
 
 November 2010
 
 # INTERNET LÀ GÌ?
-### HOẶC, "BẠN NÓI LÀ CÀ CHUA, TÔI NÓI LÀ TCP/IP"
+### "BẠN NÓI LÀ CÀ CHUA, TÔI NÓI LÀ TCP/IP"
 
-Thực chất thì Internet là cái gì? Với vài người trong chúng ta, Internet là nơi chúng ta giữ liên lạc với bạn bè, đọc tin tức, mua sắm, và chơi game. Với vài người khác, Internet có thể là các nhà cung cấp băng thông rộng ở địa phương của họ, hoặc những dây ngầm và cáp quang mang dữ liệu qua lại giữa các thành phố và đại dương. Vậy thì ai mới đúng?
-Một nơi thích hợp để bắt đầu là lúc gần với the Very Beginning: 1974. Đó là năm mà một vài nhà nghiên cứu máy tính thông minh đã phát minh ra thứ gì đó gọi là Internet Protocol Suite, hay viết tắt là TCP/IP. TCP/IP đã tạo ra một bộ các quy tắc cho phép các máy tính "nói chuyện" với nhau và gửi thông tin qua lại.
+![](http://www.20thingsilearned.com/media/illustrations/internet01.png)
 
-TCP/IP is somewhat like human communication: when we speak to each other, the rules of grammar provide structure to language and ensure that we can understand each other and exchange ideas. Similarly, TCP/IP provides the rules of communication that ensure interconnected devices understand each other so that they can send information back and forth. As that group of interconnected devices grew from one room to many rooms — and then to many buildings, and then to many cities and countries — the Internet was born.
+Thực chất thì Internet là cái gì? Với vài người trong chúng ta, Internet là nơi chúng ta giữ liên lạc với bạn bè, đọc tin tức, mua sắm, và chơi game. Với vài người khác, Internet có thể là các nhà cung cấp băng thông rộng ở địa phương của họ, hoặc những dây mạng ngầm và cáp quang mang dữ liệu qua lại giữa các thành phố và đại dương. Vậy thì ai mới đúng?
+Một nơi thích hợp để bắt đầu là lúc gần với the Very Beginning: 1974. Đó là năm mà một vài nhà nghiên cứu máy tính thông minh đã phát minh ra thứ gì đó gọi là Internet Protocol Suite, hay nói ngắn gọn là TCP/IP. TCP/IP đã tạo ra một bộ các quy tắc cho phép các máy tính "nói chuyện" với nhau và gửi thông tin qua lại.
 
-The early creators of the Internet discovered that data and information could be sent more efficiently when broken into smaller chunks, sent separately, and reassembled. Those chunks are called packets. So when you send an email across the Internet, your full email message is broken down into packets, sent to your recipient, and reassembled. The same thing happens when you watch a video on a website like YouTube: the video files are segmented into data packets that can be sent from multiple YouTube servers around the world and reassembled to form the video that you watch through your browser.
+TCP/IP là một cái gì đó tương tự với cách giao tiếp của con người: khi chúng ta nói chuyện, các quy tắc văn phạm đã cung cấp cấu trúc cho lời nói để bảo đảm rằng chúng ta có thể hiểu nhau và trao đổi các suy nghĩ. Tương nhự như vậy, TCP/IP cung cấp những quy tắc giao tiếp để chắc chắn rằng các thiết bị được kết nối có thể hiểu nhau, từ đó chúng có thể gửi thông tin qua lại. Vì nhóm các thiết bị được kết nối với nhau đã phát triển từ phạm vi bên trong 1 căn phòng trở thành rất nhiều phòng — và sau đó là rất nhiều toàn nhà, đến nhiều thành phố và quốc gia — từ đó mạng Internet được hình thành.
 
-Còn về tốc độ thì sao? If traffic on the Internet were akin to a stream of water, the Internet’s bandwidth is equivalent to the amount of water that flows through the stream per second. So when you hear engineers talking about bandwidth, what they’re really referring to is the amount of data that can be sent over your Internet connection per second. This is an indication of how fast your connection is. Faster connections are now possible with better physical infrastructure (such as fiber optic cables that can send information close to the speed of light), as well as better ways to encode the information onto the physical medium itself, even on older medium like copper wires.
+Những người tạo ra Internet thời buổi đầu đã phát hiện ra rằng dữ liệu và thông tin có thể được gửi đi một cách hiệu quả hơn khi được chia ra thành nhiều phần nhỏ, gửi đi một cách riêng biệt, và nối lại sau đó. Điều tương tự xảy ra khi bạn xem một video trên một website như Youtube: tập tin video được chia thành các gói dữ liệu, nhiều máy chủ Youtube trên toàn thế giới đồng thời gửi những gói dữ liệu đó đi và sau đó chúng được nối lại để tạo thành video bạn xem trên trình duyệt.
 
-The Internet is a fascinating and highly technical system, and yet for most of us today, it’s a user-friendly world where we don’t even think about the wires and equations involved. The Internet is also the backbone that allows the World Wide Web that we know and love to exist: with an Internet connection, we can access an open, ever-growing universe of interlinked web pages and applications. In fact, there are probably as many pages on the web today as there are neurons in your brain, as there are stars in the Milky Way!
+Nếu lưu lượng truy cập trên Internet giống như một dòng nước, thì băng thông (bandwidth) của Internet tương đương với lượng nước chảy qua dòng nước đó mỗi giây. Vì vậy, khi bạn nghe mấy cha nội kĩ sư nói về băng thông nhà bạn, cái mà họ đang thực sự đề cập đến chính là lượng dữ liệu có thể được gửi đi mỗi giây thông qua kết nối Internet mà bạn đang sử dụng. Đây là một dấu hiệu nhận biết kết nối mạng của bạn nhanh cỡ nào. Kết nối mạng có thể nhanh hơn nếu có được cơ sở hạ tầng tốt hơn (chẳng hạn như dùng những cọng dây cáp quang có thể gửi thông tin đi nhanh tương đương với tốc độ ánh sáng, hay còn gọi là tốc độ bàn thờ), các cách để mã hoá thông tin cũng sẽ tối ưu hơn, thậm chí trên những hạ tầng cũ như dây đồng.
 
-In the next two chapters, we’ll take a look at how the web is used today through cloud computing and web apps.
+Mạng Internet là một hệ thống thú vị và có tính kĩ thuật cao, tuy nhiên đối với hầu hết mọi người trong chúng ta ngày nay, nó là một thế giới thân thiện với người dùng, nơi mà chúng ta thậm chí không hề nghĩ đến mấy cọng dây dẫn và những thứ "cao siêu" có liên quan kia nữa. Internet cũng là trục xương sống cho phép World Wide Web (thứ mà chúng ta biết đến và yêu mến) tồn tại. Trên thực tế, có lẽ số trang web ngày nay đã bằng với số nơ-ron thần kinh trong não của bạn rồi đấy, mà chắc cũng ngang ngửa với số ngôi sao trong Dải Ngân Hà luôn!
 
-# CLOUD COMPUTING
-### OR, WHY IT'S OK FOR A TRUCK TO CRUSH YOUR LAPTOP
+Trong 2 chương tiếp theo, chúng ta sẽ xem coi ngày nay web được sử dụng như thế nào thông qua điện toán đám mây và các ứng dụng web.
+
+# ĐIỆN TOÁN ĐÁM MÂY
+### TẠI SAO ĐỂ CHO MỘT CHIẾC XE TẢI CÁN QUA LAPTOP CỦA BẠN LÀ ĐIỀU QUÁ BÌNH THƯỜNG NUÔN?
 
 Modern computing in the age of the Internet is quite a strange, remarkable thing. As you sit hunched over your laptop at home watching a YouTube video or using a search engine, you’re actually plugging into the collective power of thousands of computers that serve all this information to you from far-away rooms distributed around the world. It’s almost like having a massive supercomputer at your beck and call, thanks to the Internet.
+
+![](http://www.20thingsilearned.com/media/illustrations/cloud03.png)
 
 This phenomenon is what we typically refer to as cloud computing. We now read the news, listen to music, shop, watch TV shows and store our files on the web. Some of us live in cities in which nearly every museum, bank, and government office has a website. The end result? We spend less time in lines or on the phone, as these websites allow us to do things like pay bills and make reservations. The movement of many of our daily tasks online enables us to live more fully in the real world.
 ﻿
 Cloud computing offers other benefits as well. Not too long ago, many of us worried about losing our documents, photos and files if something bad happened to our computers, like a virus or a hardware malfunction. Today, our data is migrating beyond the boundaries of our personal computers. Instead, we’re moving our data online into “the cloud”. If you upload your photos, store critical files online and use a web-based email service like Gmail or Yahoo! Mail, an 18-wheel truck could run over your laptop and all your data would still safely reside on the web, accessible from any Internet-connected computer, anywhere in the world.
 
-# WEB APPS
-### OR, "LIFE, LIBERTY AND THE PURSUIT OF APPINESS"
+# CÁC ỨNG DỤNG WEB
+### "QUYỀN ĐƯỢC SỐNG, QUYỀN ĐƯỢC TỰ DO VÀ QUYỀN ĐƯỢC MƯU CẦU HẠNH PHÚC"
 
-If you play online games, use an online photo editor, or rely on web-based services like Google Maps, Twitter, Amazon, YouTube or Facebook, then you’re an active resident in the wonderful world of web apps.
-What exactly is a web app, anyway? And why should we care?
+>"Quyền được sống, quyền được tự do và quyền mưu cầu hạnh phúc" (life, liberty, and the pursuit of happiness) là 3 quyền cơ bản của con người được ghi trong Tuyên ngôn Độc lập của Mỹ. Cụm từ này rất nổi tiếng, các bạn có thể tìm hiểu trên Google.
+
+![](http://www.20thingsilearned.com/media/illustrations/webapps01.png)
+![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
+
+Nếu bạn chơi các trò chơi trực tuyến (game online), chỉnh sửa ảnh trực tuyến, hay đang dùng những dịch vụ trên nền web như Google Maps, Twitter, Amazon, YouTube hay Facebook, điều đó có nghĩa bạn là một công dân tích cực trong thế giới nhiệm màu của các ứng dụng web rồi.
+
+![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
+
+Chính xác thì ứng dụng web là cái quái gì vậy? Và tại sao chúng ta nên để tâm đến nó?
 ﻿
-App is shorthand for an application. Applications are also called programs or software. Traditionally, they’ve been designed to do broad, intensive tasks like accounting or word processing. In the online world of web browsers and smart phones, apps are usually nimbler programs focused on a single task. Web apps, in particular, run these tasks inside the web browser and often provide a rich, interactive experience.
+`App` trong cụm từ `web app` là từ viết tắt của `application` (ứng dụng). Các ứng dụng cũng thường được gọi là các chương trình hoặc phần mềm. Traditionally, they’ve been designed to do broad, intensive tasks like accounting or word processing. Trong thế giới trực tuyến của các trình duyệt web và điện thoại thông minh (smart phone), các ứng dụng thường là các chương trình gọn nhẹ tập trung vào 1 nhiệm vụ (task) nhất định . Đặc biệt là các ứng dụng web, chúng chạy các task bên trong trình duyệt web và thường cung cấp các trải nghiệm tương tác rất phong phú.
 
-Google Maps is a good example of a web app. It’s focused on one task: providing helpful map features within a web browser. You can pan and zoom around a map, search for a college or cafe, and get driving directions, among other tasks. All the information you need is pulled into the web app dynamically every time you ask for it.
+Google Maps là một ví dụ điển hình của ứng dụng web. Nó được tập trung vào một nhiệm vụ duy nhất: cung cấp các chức năng tiện ích chỉ dẫn trên bản đồ bên trong một trình duyệt web. Bạn có thể xoay và thu phóng bản đồ, tìm một trường đại học hoặc một quán cà phê, và nhận các chỉ dẫn điều hướng khi lái xe, bên cạnh các nhiệm vụ khác. Mọi thông tin bạn cần được đưa đến ứng dụng web một cách tuỳ biến mỗi lần bạn yêu cầu.
 
 **This brings us to four virtues of Web Appiness:**
 
-#### 1. I can access my data from anywhere.
+#### 1. Tôi có thể truy cập vào dữ liệu của tôi từ bất cứ đâu.
 In the traditional world of desktop applications, data is usually stored on my computer’s hard drive. If I’m on vacation and leave my computer at home, I can’t access my email, photos, or any of my data when I need it. In the new world of web apps, my email and all my data are stored online on the web. I can get to it on a web browser from any computer that’s connected to the Internet.
 
-#### 2. I’ll always get the latest version of any app.
+#### 2. Tôi sẽ luôn nhận được phiên bản mới nhất của bất kì ứng dụng nào.
 Which version of YouTube am I using today? What about tomorrow? The answer: Always the latest. Web apps update themselves automatically, so there’s always just one version: the latest version, with all the newest features and improvements. No need to manually upgrade to a new version every time. And I don’t have to go through a lengthy install process to use my web apps.
 
-#### 3. It works on every device with a web browser.
+#### 3. Nó hoạt động trên mọi thiết bị có trình duyệt web.
 In traditional computing, some programs work only on particular systems or devices. For instance, many programs written for a PC won’t work on a Mac. Keeping up with all the right software can be time-consuming and costly. In contrast, the web is an open platform. Anyone can reach it from a browser on any web-connected device, regardless of whether it’s a desktop computer, laptop, or mobile phone. That means I can use my favorite web apps even if I’m using my friend’s laptop or a computer at an Internet cafe.
 
-#### 4. It’s safer.
+#### 4. Nó an toàn hơn.
 Web apps run in the browser and I never have to download them onto my computer. Because of this separation between the app code and my computer’s code, web apps can’t interfere with other tasks on my computer or the overall performance of my machine. This means that I’m better protected from threats like viruses, malware and spyware.
 
-# HTML, JAVASCRIPT, CSS AND MORE
-### OR, THIS IS NOT YOUR MOM'S AJAX
+# HTML, JAVASCRIPT, CSS VÀ NHIỀU HƠN THẾ NỮA
+### AJAX TRONG BÀI VIẾT NÀY KHÔNG PHẢI ANH HÙNG AJAX MÀ MẸ BẠN BIẾT ĐÂU
+
+>Ajax là một vị anh hùng của cuộc chiến thành Troy.
 
 Web pages are written in HTML, the web programming language that tells web browsers how to structure and present content on a web page. In other words, HTML provides the basic building blocks for the web. And for a long time, those building blocks were pretty simple and static: lines of text, links and images.
 Today, we expect to be able to do things like play online chess or seamlessly scroll around a map of our neighborhood, without waiting for the entire page to reload for every chess move or every map scroll.
@@ -96,7 +110,9 @@ Web programmers often refer to this potent combination of JavaScript, XHR, CSS a
 Today’s web has evolved from the ongoing efforts of all the technologists, thinkers, coders and organizations who create these web technologies and ensure that they’re supported in web browsers like Internet Explorer, Firefox, Safari and Google Chrome. This interaction between web technologies and browsers has made the web an open and friendly construction platform for web developers, who then bring to life many useful and fun web applications that we use daily.
 
 # HTML5
-### OR, IN THE BEGINNING THERE WAS NO `<VIDEO>`
+### SỰ KHỞI ĐẦU MỚI CỦA NƠI KHÔNG CÓ TAG `<VIDEO>`
+
+>HTML trước khi phát triển đến phiên bản HTML5 thì chưa có tag `<video>`, đến phiên bản HTML5 mới có tag này.
 
 More than two decades after HTML was introduced, we’re still asking questions about what the web is, and what it might become. What kinds of features and applications would we, as users, find fun, useful or even indispensable? What tools do developers need in order to create these great sites and apps? And finally, how can all this goodness be delivered inside a web browser?
 These questions led to the evolution of the latest version of HTML known as HTML5, a set of capabilities that gives web designers and developers the ability to create the next generation of great online applications. Take the HTML5 `<video>` tag, for example. Video wasn’t a major (or, really, any) part of the early web;
@@ -107,8 +123,8 @@ Other cool HTML5 features include offline capabilities that let users interact w
 
 HTML5, like the web itself, is in perpetual evolution, based on users’ needs and developers’ imaginations. As an open standard, HTML5 embodies some of the best aspects of the web: it works everywhere, and on any device with a modern browser. But just as you can only watch HDTV broadcasts on an HD-compatible television, you need to use an up-to-date, HTML5-compatible browser in order to enjoy sites and apps that take advantage of HTML5’s features. Thankfully, as an Internet user, you have lots of choice when it comes to web browsers — and unlike TVs, web browsers can be downloaded for free.
 
-# 3D IN THE BROWSER
-### OR, BROWSING WITH MORE DEPTH
+# 3D BÊN TRONG TRÌNH DUYỆT
+### TRUY CẬP SÂU HƠN
 
 3D graphics and animation can be truly captivating with all the right details in place: details like lighting and shadows, reflections, and realistic textures. But until now, it has been hard to deliver a compelling 3D experience, particularly over the Internet.
 Why? Mostly because creating a 3D experience in games and other applications requires data — lots and lots of data — to display intricate textures and shapes. In the past, these large amounts of data demanded more Internet bandwidth and more computing power than most common systems could handle. All that has changed very recently, and all for the better: browser-based 3D has arrived.
@@ -120,19 +136,16 @@ Neither broadband nor raw computing power would matter without substantial advan
 So why is 3D in the browser a big deal? Because now it joins HTML5, JavaScript and other nifty new technologies in the toolkit that web developers can use to create a powerful new generation of web applications. For users, this means great new ways to visualize the information we find useful, and more fun online with engaging 3D environments and games.
 Most importantly, 3D in the browser comes with all the goodness of web apps: you can share, collaborate, and personalize the latest apps with friends all over the world. Definitely more data and fun that everyone can use.
 
-# A BROWSER MADRIGAL
-### OR, OLD VS. MODERN BROWSERS
+# MỘT BẢN GIAO HƯỞNG CỦA CÁC TRÌNH DUYỆT
+### TRÌNH DUYỆT LỖI THỜ ĐỐI ĐẦUU VỚI TRÌNH DUYỆT HIỆN ĐẠI
 
-Crabbed old and modern browsers
-Cannot live together:
-The modern browser is faster, featureful, and more secure
-The old browser is slow, and at worst, a dreadful danger
-Malicious attacks it cannot endure.
-(with apologies to Shakespeare)
+>Trong danh sách các trình duyệt được khuyến nghị sử dụng, nhóm dịch đã bỏ qua trình duyệt IE (Internet Explorer) của Microsoft vì hiện nay người dùng đã được khuyến cáo không nên sử dụng IE nữa. Microsoft đã thay thế IE bằng Edge, trình duyệt mặc định trong Windows 10.
+
+![](http://www.20thingsilearned.com/media/illustrations/oldvsnewbrowsers01.png)
 ﻿
 Most of us don’t realize how much an old and out-of-date web browser can negatively impact our online lives, particularly our online safety. You wouldn’t drive an old car with bald tires, bad brakes, and an unreliable engine for years on end. It’s a bad idea to take the same chances with the web browser that you use daily to navigate to every page and application on the web.
 
-Upgrading to a modern browser — like the latest version of Mozilla Firefox, Apple Safari, Microsoft Internet Explorer, Opera, or Google Chrome — is important for three reasons:
+Việc nâng cấp lên một trình duyệt hiện đại — như phiên bản mới nhất của Firefox, Safari, Opera, hoặc Chrome — rất quan trọng vì 3 lý do:
 
 First, old browsers are vulnerable to attacks, because they typically aren’t updated with the latest security fixes and features. Browser vulnerabilities can lead to stolen passwords, malicious software snuck secretly onto your computer, or worse. An up-to-date browser helps guard against security threats like phishing and malware.
 
@@ -144,7 +157,7 @@ Not that anyone blames you personally for staying loyal to your aging browser. I
 
 Old, outdated browsers are bad for us as users, and they hold back innovation all over the web. So take a moment to make sure that you’ve upgraded to the latest version of your favorite modern browser.
 
-Editor’s note: To check which browser you’re using, visit `www.whatbrowser.org`.
+Ghi chú của người viết: Để kiểm tra xem mình đang sử dụng trình duyệt nào, hãy truy cập `www.whatbrowser.org`.
 
 # PLUG-INS
 ### OR, PEPPERONI FOR YOUR CHEESE PIZZA
