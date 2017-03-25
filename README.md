@@ -1,24 +1,32 @@
+###Nhóm dịch:
+>Khung này sẽ đặt lời nhắn của nhóm dịch. Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó.
+>Bài viết được dịch không theo văn phong viết, nhằm mục đích dịch dễ hiểu nhất có thể cho các bạn. Nếu bạn không hiểu, có thể góp ý với nhóm dịch, hoặc ráng đoán nghĩa nếu bạn lười góp ý.
+
 # LỜI TỰA
+
+>Trong phần này, chúng tôi (nhóm dịch) đã lược bỏ 1 đoạn không cần thiết để các bạn có thể nắm được các ý chính của bài viết này trong thời gian nhanh nhất.
 
 Ngày nay rất nhiều người trong chúng ta phụ thuộc vào World Wide Web để mang lượng thông tin trên toàn thế giới về trong tầm tay của chúng ta, giúp chúng ta kết nối với mọi người và các sự kiện toàn cầu một cách tức thì.
 
-Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ vào web (mạng), thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt web của bất kì thiết bị có kết nối Internet nào trên thế giới.
+Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ vào web (mạng), thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt web của bất kì thiết bị nào có kết nối Internet trên thế giới.
 
-Nhưng mạng và các trình duyệt của chúng ta thực sự hoạt động như thế nào? Làm thế nào để World Wide Web đã phát triển thành thứ mà hiện tại chúng ta không thể sống thiếu nó? Và chúng ta cần biết những gì để lướt web an một cách an toàn và hiệu quả?
+Nhưng web và các trình duyệt của chúng ta thực sự hoạt động như thế nào? Làm thế nào để World Wide Web đã phát triển thành thứ mà hiện tại chúng ta không thể sống thiếu nó? Và chúng ta cần biết những gì để "lướt" web an một cách an toàn và hiệu quả?
 
-“20 Điều tôi đã học được về trình duyệt và web” (Tên gốc: “20 Things I Learned About Browsers and the Web”) là một hướng dẫn ngắn gọn cho những ai quan tâm đến những điều cơ bản của các trình duyệt và web. Đây là những gì các bạn sẽ tìm thấy được trong bài viết này:
+"20 Điều tôi đã học được về trình duyệt và web" (Tên gốc: "20 Things I Learned About Browsers and the Web") là một hướng dẫn ngắn gọn cho những ai quan tâm đến những điều cơ bản của các trình duyệt và web. Đây là những gì các bạn sẽ tìm thấy được trong bài viết này:
 
 Đầu tiên chúng ta sẽ tìm hiểu về Internet, điều cốt lõi cho phép web có thể tồn tại. Chúng ta cũng sẽ tìm hiểu ngày nay web được sử dụng như thế nào, thông qua cloud computing và các ứng dụng web.
 
-Sau đó, chúng tôi sẽ giới thiệu những "viên gạch" xây dựng nên các trang web, ví dụ như HTML và JavaScript, và xem lại sự phát triển của chúng đã thay đổi các trang web chúng ta truy cập mỗi ngày như thế nào. Chúng ta cũng sẽ nhìn sơ qua các trình duyệt hiện đại ngày nay và cách chúng giúp người dụng truy cập web một cách an toàn và bảo mật hơn.
+Sau đó, chúng tôi sẽ giới thiệu những "viên gạch" dùng để xây dựng nên các trang web, ví dụ như HTML và JavaScript, và xem lại sự phát triển của chúng đã thay đổi các trang web chúng ta truy cập mỗi ngày như thế nào. Chúng ta cũng sẽ nhìn sơ qua các trình duyệt hiện đại ngày nay và cách chúng giúp người dụng truy cập web một cách an toàn và bảo mật hơn.
 
 Cuối cùng, chúng ta sẽ nhìn qua một lượt những sự phát triển thú vị trong các trình duyệt và các công nghệ web, điều mà chúng tôi tin rằng sẽ cung cấp cho chúng ta mọi trải nghiệm trực tuyến (thậm chí nhanh hơn và hấp dẫn hơn nữa) trong tương lai.
 
-Cuộc sống của các công dân web có thể đang trở nên tự do và nắm nhiều quyền hơn, but also deserves some self-education. Just as we’d want to know various basic facts as citizens of our physical neighborhoods -- water safety, key services, local businesses -- do đó việc hiểu biết các thông tin tương tự về xã hội và cuộc sống trực tuyến ngày càng trở nên quan trọng hơn. Đó là tinh thần chính để chúng tôi viết bài hướng dẫn này. Nhiều ví dụ được dùng để minh hoạ các ứng dụng và chức năng của trình duyệt thường dựa trên Chrome, trình duyệt mã nguồn mở mà chúng tôi biết rõ. Chúng tôi hy vọng bạn sẽ tìm thấy sự hứng thú để đọc bài hướng dẫn này như chúng tôi đã có được khi tạo ra nó.
+Chúng tôi hy vọng bạn sẽ tìm thấy sự hứng thú để đọc bài hướng dẫn này giống như chúng tôi đã có được khi tạo ra nó.
 
 Truy cập vui vẻ nhé!
 
+
 The Google Chrome Team, và đặc biệt gửi lời cảm ơn đến Christoph Niemann vì những tấm hình minh hoạ của anh ấy.
+
 November 2010
 
 # INTERNET LÀ GÌ?
@@ -58,16 +66,16 @@ Google Maps is a good example of a web app. It’s focused on one task: providin
 
 **This brings us to four virtues of Web Appiness:**
 
-##### 1. I can access my data from anywhere.
+#### 1. I can access my data from anywhere.
 In the traditional world of desktop applications, data is usually stored on my computer’s hard drive. If I’m on vacation and leave my computer at home, I can’t access my email, photos, or any of my data when I need it. In the new world of web apps, my email and all my data are stored online on the web. I can get to it on a web browser from any computer that’s connected to the Internet.
 
-##### 2. I’ll always get the latest version of any app.
+#### 2. I’ll always get the latest version of any app.
 Which version of YouTube am I using today? What about tomorrow? The answer: Always the latest. Web apps update themselves automatically, so there’s always just one version: the latest version, with all the newest features and improvements. No need to manually upgrade to a new version every time. And I don’t have to go through a lengthy install process to use my web apps.
 
-##### 3. It works on every device with a web browser.
+#### 3. It works on every device with a web browser.
 In traditional computing, some programs work only on particular systems or devices. For instance, many programs written for a PC won’t work on a Mac. Keeping up with all the right software can be time-consuming and costly. In contrast, the web is an open platform. Anyone can reach it from a browser on any web-connected device, regardless of whether it’s a desktop computer, laptop, or mobile phone. That means I can use my favorite web apps even if I’m using my friend’s laptop or a computer at an Internet cafe.
 
-##### 4. It’s safer.
+#### 4. It’s safer.
 Web apps run in the browser and I never have to download them onto my computer. Because of this separation between the app code and my computer’s code, web apps can’t interfere with other tasks on my computer or the overall performance of my machine. This means that I’m better protected from threats like viruses, malware and spyware.
 
 # HTML, JAVASCRIPT, CSS AND MORE
@@ -91,9 +99,9 @@ Today’s web has evolved from the ongoing efforts of all the technologists, thi
 ### OR, IN THE BEGINNING THERE WAS NO `<VIDEO>`
 
 More than two decades after HTML was introduced, we’re still asking questions about what the web is, and what it might become. What kinds of features and applications would we, as users, find fun, useful or even indispensable? What tools do developers need in order to create these great sites and apps? And finally, how can all this goodness be delivered inside a web browser?
-These questions led to the evolution of the latest version of HTML known as HTML5, a set of capabilities that gives web designers and developers the ability to create the next generation of great online applications. Take the HTML5 <video> tag, for example. Video wasn’t a major (or, really, any) part of the early web;
+These questions led to the evolution of the latest version of HTML known as HTML5, a set of capabilities that gives web designers and developers the ability to create the next generation of great online applications. Take the HTML5 `<video>` tag, for example. Video wasn’t a major (or, really, any) part of the early web;
 
-instead, internet users installed additional software called plug-ins, in order to watch videos inside their web browsers. Soon it became apparent that easy access to video was a much-wanted feature on the web. The introduction of the <video> tag in HTML5 allows videos to be easily embedded and played in web pages without additional software.
+instead, internet users installed additional software called plug-ins, in order to watch videos inside their web browsers. Soon it became apparent that easy access to video was a much-wanted feature on the web. The introduction of the `<video>` tag in HTML5 allows videos to be easily embedded and played in web pages without additional software.
 
 Other cool HTML5 features include offline capabilities that let users interact with web apps even when they don’t have an internet connection, as well as drag-and-drop capabilities. In Gmail, for instance, easy drag-and-drop allows users to instantly attach a file to an email message by simply dragging the file from the user’s desktop computer into the browser window.
 
@@ -136,7 +144,7 @@ Not that anyone blames you personally for staying loyal to your aging browser. I
 
 Old, outdated browsers are bad for us as users, and they hold back innovation all over the web. So take a moment to make sure that you’ve upgraded to the latest version of your favorite modern browser.
 
-Editor’s note: To check which browser you’re using, visit www.whatbrowser.org.
+Editor’s note: To check which browser you’re using, visit `www.whatbrowser.org`.
 
 # PLUG-INS
 ### OR, PEPPERONI FOR YOUR CHEESE PIZZA
@@ -237,18 +245,17 @@ At the same time, an attacker may not always use sophisticated technical wizardr
 
 An up-to-date browser guards you from phishing and malware attacks when you’re browsing the web. It does so by limiting three types of security risk when you’re online:
 
-##### Risk 1: How often you come into contact with an attacker
+##### **Risk 1: How often you come into contact with an attacker**
 You can be exposed to attackers through a malicious fake website, or even through a familiar website that has been hacked. Most modern browsers pre-check each web page you visit and alert you if one is suspected of being malicious. This lets you make an informed judgment about whether you really want to visit that page.
 
 For example, Google Chrome uses Safe Browsing technology, which is also used in several other modern browsers. As you browse the web, each page is checked quickly against a list of suspected phishing and malware websites. This list is stored and maintained locally on your computer to help protect your browsing privacy. If a match against the local list is found, the browser then sends a request to Google for more information. (This request is completely obscured and the browser does not send it in plain text.) If Google verifies the match, Chrome shows a red warning page to alert you that the page you're trying to visit may be dangerous.
 
-##### Risk 2: How vulnerable your browser is if it’s attacked
+##### **Risk 2: How vulnerable your browser is if it’s attacked**
 Old browsers that haven’t been upgraded are likely to have security vulnerabilities that attackers can exploit. All outdated software, irrespective of whether it’s your operating system, browser, or plug-ins, has the same problem. That’s why it’s important to use the very latest version of your browser and promptly install security patches on your operating system and all plug-ins, so that they’re always up-to-date with the latest security fixes.
 
 Some browsers check for updates automatically and install updates when initiated by the user. Chrome and some other browsers go one step further: they’re built with auto-update. The browser runs an update check periodically, and automatically updates to the latest version without disrupting your browsing flow. Furthermore, Chrome has integrated Adobe Flash Player and a PDF viewer into the browser, so that both these popular plug-ins are also auto-updated.
 
-﻿
-##### Risk 3: How much damage is done if an attacker finds vulnerabilities in your browser
+##### **Risk 3: How much damage is done if an attacker finds vulnerabilities in your browser**
 Some modern browsers like Chrome and Internet Explorer are built with an added layer of protection known as a “sandbox.” Just as a real-life sandbox has walls to keep sand from spilling out, a browser sandbox builds a contained environment to keep malware and other security threats from infecting your computer. If you open a malicious web page, the browser’s sandbox prevents that malicious code from leaving the browser and installing itself to your hard drive. The malicious code therefore cannot read, alter, or further damage the data on your computer.
 
 In summary, a modern browser can protect you against online security threats by first, checking websites you’re about to visit for suspected malware and phishing; second, providing update notifications or auto-updating when a newer, more secure version of the browser is available, and third, using the browser sandbox to curb malicious code from causing further damage to your computer.
@@ -330,13 +337,13 @@ An IP address looks something like this:
 74.125.19.147
 ```
 
-An IP address is a series of numbers that tells us where a particular device is on the Internet network, be it the google.com server or your computer. It’s a bit like mom’s phone number: just as the phone number tells an operator which house to route a call to so it reaches your mom, an IP address tells your computer which other device on the Internet to communicate with — to send data to and get data from.
+An IP address is a series of numbers that tells us where a particular device is on the Internet network, be it the `google.com` server or your computer. It’s a bit like mom’s phone number: just as the phone number tells an operator which house to route a call to so it reaches your mom, an IP address tells your computer which other device on the Internet to communicate with — to send data to and get data from.
 
 Your browser doesn’t automatically know every IP address for the 35 billion (or more) devices on the planet that are connected on the Internet. It has to look each one up, using something called the Domain Name System. The DNS is essentially the “phone book” of the Web: while a phone book translates a name like “Acme Pizza” into the right phone number to call, the DNS translates a URL or web address (like `www.google.com`) into the right IP address to contact (like `74.125.19.147`) in order to get the information that you want (in this case, the Google homepage).
 
-So when you type in `google.com` into your web browser, the browser looks up google.com’s IP address through a DNS and contacts it, waits for a response to confirm the connection, and then sends your request for google.com’s web page to that IP address. Google’s server at that IP address will then send back the requested web page to your computer’s IP address for your browser to display.
+So when you type in `google.com` into your web browser, the browser looks up google[dot]com’s IP address through a DNS and contacts it, waits for a response to confirm the connection, and then sends your request for google.com’s web page to that IP address. Google’s server at that IP address will then send back the requested web page to your computer’s IP address for your browser to display.
 
-In many ways, fetching and loading a web page in the browser is not unlike making a phone call. When you make a phone call, you’d probably look up the number, dial, wait for someone to pick up, say “hello,” and wait for a response before you start the conversation. Sometimes you have to redial if there are problems connecting. On the web, a similar process happens in a split-second; all you see is that you’ve typed “www.google.com” into the browser and the Google home page appears.
+In many ways, fetching and loading a web page in the browser is not unlike making a phone call. When you make a phone call, you’d probably look up the number, dial, wait for someone to pick up, say “hello,” and wait for a response before you start the conversation. Sometimes you have to redial if there are problems connecting. On the web, a similar process happens in a split-second; all you see is that you’ve typed `www.google.com` into the browser and the Google home page appears.
 
 In the next chapter, we’ll look at how we can verify the identity of a website that we fetch and load in the browser through the extended validation certificate.
 
@@ -344,8 +351,8 @@ In the next chapter, we’ll look at how we can verify the identity of a website
 ### OR, "DR. LIVINGSTONE, I PRESUME?"
 
 In the physical world, you can see the people you share information with. You talk to them face-to-face, or meet them in a trusted place like a bank branch. That’s how you make your first judgments about giving them your trust.
-But online, it can be hard to tell who’s behind any website. The visual cues we normally rely on can be faked. For example, a phony webpage could copy the logo, icon, and
-design of your own bank’s website — almost as if they had set up a fake storefront on your block.
+But online, it can be hard to tell who’s behind any website. The visual cues we normally rely on can be faked. For example, a phony webpage could copy the logo, icon, and design of your own bank’s website — almost as if they had set up a fake storefront on your block.
+
 Fortunately, there are tools to help you determine if a website is genuine or not. Some websites have an extended validation certificate that allows you to determine the name of the organization that runs the web site. The extended validation certificate gives you the information you need to help ensure that you’re not entrusting your information to a fake website.
 
 Here’s an example of extended validation in action in the browser. On a bank’s website that has been verified through extended validation, the bank’s name is displayed in a green box between the lock icon and the web address in the address bar:
@@ -369,9 +376,7 @@ It’s a far cry from the simple text and links that started it all. And it mean
 How much more, and how much more complex? A few astounding statistics:
 
 Images and photos now make up about 65% of the information on a typical web page, in terms of bytes per page.
-35 hours of video are uploaded to YouTube every minute of the day. (That’s like Hollywood releasing 130,000 new full-length movies every week, though with less popcorn.)
-JavaScript programs have grown from a few lines to several hundred kilobytes of source code that must be processed each time a web page or application loads.
-So won’t all these gushing floods of data slow down page loads on the browser? Will the Internet clog up and turn to molasses soon?
+35 hours of video are uploaded to YouTube every minute of the day. (That’s like Hollywood releasing 130,000 new full-length movies every week, though with less popcorn.) JavaScript programs have grown from a few lines to several hundred kilobytes of source code that must be processed each time a web page or application loads. So won’t all these gushing floods of data slow down page loads on the browser? Will the Internet clog up and turn to molasses soon?
 
 Probably not. Images and photos became commonplace on the web when computer scientists found ways to compress them into smaller files that could be sent and downloaded more easily. GIF and JPEG were the most popular of those early file-compression systems. Meanwhile, plug-ins were invented to work around the early limitations of HTML so that video could be embedded and played in web pages.
 
@@ -404,18 +409,21 @@ Browsers aren’t the only part of the web that can take the open-source approac
 ### OR, A DAY IN THE CLOUDS
 
 ...and here we are at Thing 20. Let's recap.
+
 Today’s web is a colorful, visual, practical, nutty, busy, friend-filled, fun and incredibly useful place. Many of us now live a life of cloud computing on the Internet: we read the news, watch movies, chat with friends, and do our daily tasks online with web-based applications right in the browser. Web apps let us do that from anywhere in the world, even if we left our laptops at home.
 
 It’s all possible thanks to the evolution of web standards like HTML, JavaScript, and CSS, as well as browser plug-ins. New capabilities in HTML5 are helping developers create the next generation of truly inventive web apps.
 
 What else is taking shape in the clouds?
-It takes a modern browser to make the most of the web’s modern features.
+
+It takes a [modern browser](#A-BROWSER-MADRIGAL) to make the most of the web’s modern features.
 ﻿
-Modern browsers also help protect against malware and phishing.
-Open-source sharing has given us better browsers and a faster, richer, more complex web. And open-source brainpower is making the future of the web even brighter.
-What’s in that bright future? 3D in the browser, faster speeds, and sync across all devices, among other fine things.
-Being an informed citizen of the web requires some self-education — for instance, learning to control your browser’s privacy settings for various types of content including cookies.
-You’re also safer on the web when you pay attention to visual cues in the browser, like checking the URLs you’re sent to, and looking for an “https://” secure connection or extended validation.
+- Modern browsers also help protect against malware and phishing.
+- Open-source sharing has given us better browsers and a faster, richer, more complex web. And open-source brainpower is making the future of the web even brighter.
+- What’s in that bright future? 3D in the browser, faster speeds, and sync across all devices, among other fine things.
+- Being an informed citizen of the web requires some self-education — for instance, learning to control your browser’s privacy settings for various types of content including cookies.
+- You’re also safer on the web when you pay attention to visual cues in the browser, like checking the URLs you’re sent to, and looking for an `https://` secure connection or extended validation.
+
 The final takeaways?
 
 **Use a modern browser**, first and foremost. Or try a new one and see if it brings you happier browsing that’s better suited to your needs.
@@ -423,7 +431,6 @@ The final takeaways?
 **The web will keep evolving — dramatically!** Support cutting-edge web technologies like HTML5, CSS3 and WebGL, because they’ll help the web community imagine and create a future of great, innovative web apps.
 
 **Lastly, try new things.** The web is a new and exciting place every day, so try tasks that you didn’t think could be done online -- such as researching your ancestry back ten generations, or viewing a real-time webcam image from a climbing basecamp in the Himalayas. You might be surprised by what you find!
-
 
 
 ﻿`Illustration` **Christoph Niemann**
