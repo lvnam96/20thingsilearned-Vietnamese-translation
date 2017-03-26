@@ -1,5 +1,5 @@
 ### Ghi chú từ nhóm dịch:
->- Khung này sẽ đặt lời nhắn của nhóm dịch :sunglasses:. Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó. 
+>- Khung này sẽ đặt lời nhắn của nhóm dịch :sunglasses: Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó. 
 >- Bài viết được dịch không theo văn phong của bài viết gốc, nhằm mục đích dịch dễ hiểu nhất có thể cho bạn. Nếu bạn không hiểu, bạn có thể chửi.
 >- Bài viết này được xuất bản vào năm 2010, từ đó đến nay là một khoảng thời gian khá dài, do đó nội dung trong bài viết cũng sẽ có những thông tin lỗi thời, nhóm dịch sẽ thay thế, cập nhật lại và bổ sung thêm những thông tin cần thiết khác cho bạn.
 
@@ -7,13 +7,13 @@
 
 >Trong chương này, nhóm dịch đã lược bỏ 1 đoạn không cần thiết để bạn có thể nắm được các ý chính của bài viết trong thời gian nhanh nhất.
 
-Ngày nay rất nhiều người trong chúng ta phụ thuộc vào World Wide Web để mang lượng thông tin trên toàn thế giới về trong tầm tay của chúng ta, giúp chúng ta kết nối với mọi người và các sự kiện toàn cầu một cách tức thì.
+Ngày nay rất nhiều người trong chúng ta phụ thuộc vào World Wide Web để mang lượng thông tin khổng lồ trên toàn thế giới về trong tầm tay của chúng ta, giúp chúng ta kết nối với mọi người và các sự kiện toàn cầu một cách tức thì.
 
 Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ có web, thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt (browser) của bất kì thiết bị nào có kết nối Internet trên thế giới.
 
 Nhưng web và các trình duyệt của chúng ta thực sự hoạt động như thế nào? Làm thế nào để World Wide Web đã phát triển thành thứ mà hiện tại chúng ta không thể sống thiếu nó? Và chúng ta cần biết những gì để "lướt" web an một cách an toàn và hiệu quả?
 
-"20 Điều tôi đã học được về trình duyệt và web" (Tên gốc: "20 Things I Learned About Browsers and the Web") là một hướng dẫn ngắn gọn cho những ai quan tâm đến những điều cơ bản về các trình duyệt và web. Đây là những gì các bạn sẽ tìm thấy được trong bài viết này:
+"20 Điều tôi đã học được về trình duyệt và web" ("20 Things I Learned About Browsers and the Web") là một hướng dẫn ngắn gọn cho những ai quan tâm đến những điều cơ bản về các trình duyệt và web. Đây là những gì các bạn sẽ tìm thấy được trong bài viết này:
 
 Đầu tiên chúng ta sẽ tìm hiểu về Internet, điều cốt lõi cho phép web có thể tồn tại. Chúng ta cũng sẽ tìm hiểu ngày nay web được sử dụng như thế nào, thông qua điện toán đám mây (cloud computing) và các ứng dụng web (web apps).
 
@@ -32,12 +32,12 @@ November 2010
 # INTERNET LÀ GÌ?
 ### "BẠN NÓI LÀ CÀ CHUA, TÔI NÓI LÀ TCP/IP"
 
-![](http://www.20thingsilearned.com/media/illustrations/internet01.png)
-
 Thực chất thì Internet là cái gì? Với vài người trong chúng ta, Internet là nơi chúng ta giữ liên lạc với bạn bè, đọc tin tức, mua sắm, và chơi game. Với vài người khác, Internet có thể là các nhà cung cấp băng thông rộng ở địa phương của họ, hoặc những dây mạng ngầm và cáp quang mang dữ liệu qua lại giữa các thành phố và đại dương. Vậy thì ai mới đúng?
 Một nơi thích hợp để bắt đầu là lúc gần với the Very Beginning: 1974. Đó là năm mà một vài nhà nghiên cứu máy tính thông minh đã phát minh ra thứ gì đó gọi là Internet Protocol Suite, hay nói ngắn gọn là TCP/IP. TCP/IP đã tạo ra một bộ các quy tắc cho phép các máy tính "nói chuyện" với nhau và gửi thông tin qua lại.
 
 TCP/IP là một cái gì đó tương tự với cách giao tiếp của con người: khi chúng ta nói chuyện, các quy tắc văn phạm đã cung cấp cấu trúc cho lời nói để bảo đảm rằng chúng ta có thể hiểu nhau và trao đổi các suy nghĩ. Tương nhự như vậy, TCP/IP cung cấp những quy tắc giao tiếp để chắc chắn rằng các thiết bị được kết nối có thể hiểu nhau, từ đó chúng có thể gửi thông tin qua lại. Vì nhóm các thiết bị được kết nối với nhau đã phát triển từ phạm vi bên trong 1 căn phòng trở thành rất nhiều phòng — và sau đó là rất nhiều toàn nhà, đến nhiều thành phố và quốc gia — từ đó mạng Internet được hình thành.
+
+![](http://www.20thingsilearned.com/media/illustrations/internet01.png)
 
 Những người tạo ra Internet thời buổi đầu đã phát hiện ra rằng dữ liệu và thông tin có thể được gửi đi một cách hiệu quả hơn khi được chia ra thành nhiều phần nhỏ, gửi đi một cách riêng biệt, và nối lại sau đó. Điều tương tự xảy ra khi bạn xem một video trên một website như Youtube: tập tin video được chia thành các gói dữ liệu, nhiều máy chủ Youtube trên toàn thế giới đồng thời gửi những gói dữ liệu đó đi và sau đó chúng được nối lại để tạo thành video bạn xem trên trình duyệt.
 
@@ -56,6 +56,8 @@ Modern computing in the age of the Internet is quite a strange, remarkable thing
 
 This phenomenon is what we typically refer to as cloud computing. We now read the news, listen to music, shop, watch TV shows and store our files on the web. Some of us live in cities in which nearly every museum, bank, and government office has a website. The end result? We spend less time in lines or on the phone, as these websites allow us to do things like pay bills and make reservations. The movement of many of our daily tasks online enables us to live more fully in the real world.
 ﻿
+![](http://www.20thingsilearned.com/media/illustrations/cloud02.png)
+
 Cloud computing offers other benefits as well. Not too long ago, many of us worried about losing our documents, photos and files if something bad happened to our computers, like a virus or a hardware malfunction. Today, our data is migrating beyond the boundaries of our personal computers. Instead, we’re moving our data online into “the cloud”. If you upload your photos, store critical files online and use a web-based email service like Gmail or Yahoo! Mail, an 18-wheel truck could run over your laptop and all your data would still safely reside on the web, accessible from any Internet-connected computer, anywhere in the world.
 
 # CÁC ỨNG DỤNG WEB
@@ -63,16 +65,15 @@ Cloud computing offers other benefits as well. Not too long ago, many of us worr
 
 >"Quyền được sống, quyền được tự do và quyền mưu cầu hạnh phúc" (life, liberty, and the pursuit of happiness) là 3 quyền cơ bản của con người được ghi trong Tuyên ngôn Độc lập của Mỹ. Cụm từ này rất nổi tiếng, các bạn có thể tìm hiểu trên Google.
 
-![](http://www.20thingsilearned.com/media/illustrations/webapps01.png)
-![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
-
 Nếu bạn chơi các trò chơi trực tuyến (game online), chỉnh sửa ảnh trực tuyến, hay đang dùng những dịch vụ trên nền web như Google Maps, Twitter, Amazon, YouTube hay Facebook, điều đó có nghĩa bạn là một công dân tích cực trong thế giới nhiệm màu của các ứng dụng web rồi.
 
-![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
+![](http://www.20thingsilearned.com/media/illustrations/webapps01.png)
 
 Chính xác thì ứng dụng web là cái quái gì vậy? Và tại sao chúng ta nên để tâm đến nó?
-﻿
+
 `App` trong cụm từ `web app` là từ viết tắt của `application` (ứng dụng). Các ứng dụng cũng thường được gọi là các chương trình hoặc phần mềm. Traditionally, they’ve been designed to do broad, intensive tasks like accounting or word processing. Trong thế giới trực tuyến của các trình duyệt web và điện thoại thông minh (smart phone), các ứng dụng thường là các chương trình gọn nhẹ tập trung vào 1 nhiệm vụ (task) nhất định . Đặc biệt là các ứng dụng web, chúng chạy các task bên trong trình duyệt web và thường cung cấp các trải nghiệm tương tác rất phong phú.
+
+![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
 
 Google Maps là một ví dụ điển hình của ứng dụng web. Nó được tập trung vào một nhiệm vụ duy nhất: cung cấp các chức năng tiện ích chỉ dẫn trên bản đồ bên trong một trình duyệt web. Bạn có thể xoay và thu phóng bản đồ, tìm một trường đại học hoặc một quán cà phê, và nhận các chỉ dẫn điều hướng khi lái xe, bên cạnh các nhiệm vụ khác. Mọi thông tin bạn cần được đưa đến ứng dụng web một cách tuỳ biến mỗi lần bạn yêu cầu.
 
@@ -93,19 +94,25 @@ Web apps run in the browser and I never have to download them onto my computer. 
 # HTML, JAVASCRIPT, CSS VÀ NHIỀU HƠN THẾ NỮA
 ### AJAX TRONG BÀI VIẾT NÀY KHÔNG PHẢI ANH HÙNG AJAX MÀ MẸ BẠN BIẾT ĐÂU
 
->Ajax là một vị anh hùng của cuộc chiến thành Troy.
+>Ajax là một vị anh hùng trong cuộc chiến thành Troy.
 
 Web pages are written in HTML, the web programming language that tells web browsers how to structure and present content on a web page. In other words, HTML provides the basic building blocks for the web. And for a long time, those building blocks were pretty simple and static: lines of text, links and images.
-Today, we expect to be able to do things like play online chess or seamlessly scroll around a map of our neighborhood, without waiting for the entire page to reload for every chess move or every map scroll.
-The idea of such dynamic web pages began
 
-with the invention of the scripting language JavaScript. JavaScript support in major web browsers meant that web pages could incorporate more meaningful real-time interactions. For example, if you’ve filled out an online form and hit the “submit” button, the web page can use JavaScript to check your entries in real-time and alert you almost instantly if you had filled out the form incorrectly.
+![](http://www.20thingsilearned.com/media/illustrations/html01.png)
+
+Today, we expect to be able to do things like play online chess or seamlessly scroll around a map of our neighborhood, without waiting for the entire page to reload for every chess move or every map scroll. The idea of such dynamic web pages began with the invention of the scripting language JavaScript. JavaScript support in major web browsers meant that web pages could incorporate more meaningful real-time interactions. For example, if you’ve filled out an online form and hit the “submit” button, the web page can use JavaScript to check your entries in real-time and alert you almost instantly if you had filled out the form incorrectly.
+
+![](http://www.20thingsilearned.com/media/illustrations/html02.png)
 
 But the dynamic web as we know it today truly came to life when XHR (XMLHttpRequest) was introduced into JavaScript, and first used in web applications like Microsoft Outlook for the Web, Gmail and Google Maps. XHR enabled individual parts of a web page — a game, a map, a video, a little survey — to be altered without needing to reload the entire page. As a result, web apps are faster and more responsive.
+
+![](http://www.20thingsilearned.com/media/illustrations/html03.png)
 
 Web pages have also become more expressive with the introduction of CSS (Cascading Style Sheets). CSS gives programmers an easy, efficient way to define a web page’s layout and beautify the page with design elements like colors, rounded corners, gradients, and animation.
 
 Web programmers often refer to this potent combination of JavaScript, XHR, CSS and several other web technologies as AJAX (Asynchronous JavaScript and XML). HTML has also continued to evolve as more features and improvements are incorporated into new versions of the HTML standard.
+
+![](http://www.20thingsilearned.com/media/illustrations/html04.png)
 
 Today’s web has evolved from the ongoing efforts of all the technologists, thinkers, coders and organizations who create these web technologies and ensure that they’re supported in web browsers like Internet Explorer, Firefox, Safari and Google Chrome. This interaction between web technologies and browsers has made the web an open and friendly construction platform for web developers, who then bring to life many useful and fun web applications that we use daily.
 
@@ -115,21 +122,25 @@ Today’s web has evolved from the ongoing efforts of all the technologists, thi
 >HTML trước khi phát triển đến phiên bản HTML5 thì chưa có tag `<video>`, đến phiên bản HTML5 mới có tag này.
 
 More than two decades after HTML was introduced, we’re still asking questions about what the web is, and what it might become. What kinds of features and applications would we, as users, find fun, useful or even indispensable? What tools do developers need in order to create these great sites and apps? And finally, how can all this goodness be delivered inside a web browser?
-These questions led to the evolution of the latest version of HTML known as HTML5, a set of capabilities that gives web designers and developers the ability to create the next generation of great online applications. Take the HTML5 `<video>` tag, for example. Video wasn’t a major (or, really, any) part of the early web;
 
-instead, internet users installed additional software called plug-ins, in order to watch videos inside their web browsers. Soon it became apparent that easy access to video was a much-wanted feature on the web. The introduction of the `<video>` tag in HTML5 allows videos to be easily embedded and played in web pages without additional software.
+These questions led to the evolution of the latest version of HTML known as HTML5, a set of capabilities that gives web designers and developers the ability to create the next generation of great online applications. Take the HTML5 `<video>` tag, for example. Video wasn’t a major (or, really, any) part of the early web; instead, internet users installed additional software called plug-ins, in order to watch videos inside their web browsers. Soon it became apparent that easy access to video was a much-wanted feature on the web. The introduction of the `<video>` tag in HTML5 allows videos to be easily embedded and played in web pages without additional software.
+
+![](http://www.20thingsilearned.com/media/illustrations/html501.png)
 
 Other cool HTML5 features include offline capabilities that let users interact with web apps even when they don’t have an internet connection, as well as drag-and-drop capabilities. In Gmail, for instance, easy drag-and-drop allows users to instantly attach a file to an email message by simply dragging the file from the user’s desktop computer into the browser window.
 
 HTML5, like the web itself, is in perpetual evolution, based on users’ needs and developers’ imaginations. As an open standard, HTML5 embodies some of the best aspects of the web: it works everywhere, and on any device with a modern browser. But just as you can only watch HDTV broadcasts on an HD-compatible television, you need to use an up-to-date, HTML5-compatible browser in order to enjoy sites and apps that take advantage of HTML5’s features. Thankfully, as an Internet user, you have lots of choice when it comes to web browsers — and unlike TVs, web browsers can be downloaded for free.
 
 # 3D BÊN TRONG TRÌNH DUYỆT
-### TRUY CẬP SÂU HƠN
+### TRUY CẬP "SÂU" HƠN
 
 3D graphics and animation can be truly captivating with all the right details in place: details like lighting and shadows, reflections, and realistic textures. But until now, it has been hard to deliver a compelling 3D experience, particularly over the Internet.
+
 Why? Mostly because creating a 3D experience in games and other applications requires data — lots and lots of data — to display intricate textures and shapes. In the past, these large amounts of data demanded more Internet bandwidth and more computing power than most common systems could handle. All that has changed very recently, and all for the better: browser-based 3D has arrived.
 
 Modern broadband helped solve bandwidth needs. Many homes and offices now have broadband speeds that dwarf the connections of even ten years ago. As a result, it’s possible to send large amounts of data over the Internet — data that is needed to display realistic 3D experiences in the browser. In addition, the computers we use today are so much more powerful than what we had in the past: processors and memory have improved such that even a standard laptop or desktop today can handle the complexity of 3D graphics.
+
+![](http://www.20thingsilearned.com/media/illustrations/3d01.png)
 
 Neither broadband nor raw computing power would matter without substantial advancements in the web browser’s capabilities. Many modern browsers have adopted open web technologies like WebGL and 3D CSS. With these technologies, web developers can create cool 3D effects for their web applications, and we can experience them without needing additional plug-ins. On top of that, many modern browsers now take advantage of a technique known as hardware-acceleration. This means that the browser can use the Graphics Processing Unit, or GPU, to speed up the computations needed to display both 3D and everyday 2D web content.
 
@@ -137,12 +148,12 @@ So why is 3D in the browser a big deal? Because now it joins HTML5, JavaScript a
 Most importantly, 3D in the browser comes with all the goodness of web apps: you can share, collaborate, and personalize the latest apps with friends all over the world. Definitely more data and fun that everyone can use.
 
 # MỘT BẢN GIAO HƯỞNG CỦA CÁC TRÌNH DUYỆT
-### TRÌNH DUYỆT LỖI THỜ ĐỐI ĐẦUU VỚI TRÌNH DUYỆT HIỆN ĐẠI
+### TRÌNH DUYỆT LỖI THỜi ĐỐI ĐẦU VỚI TRÌNH DUYỆT HIỆN ĐẠI
 
 >Trong danh sách các trình duyệt được khuyến nghị sử dụng, nhóm dịch đã bỏ qua trình duyệt IE (Internet Explorer) của Microsoft vì hiện nay người dùng đã được khuyến cáo không nên sử dụng IE nữa. Microsoft đã thay thế IE bằng Edge, trình duyệt mặc định trong Windows 10.
 
 ![](http://www.20thingsilearned.com/media/illustrations/oldvsnewbrowsers01.png)
-﻿
+
 Most of us don’t realize how much an old and out-of-date web browser can negatively impact our online lives, particularly our online safety. You wouldn’t drive an old car with bald tires, bad brakes, and an unreliable engine for years on end. It’s a bad idea to take the same chances with the web browser that you use daily to navigate to every page and application on the web.
 
 Việc nâng cấp lên một trình duyệt hiện đại — như phiên bản mới nhất của Firefox, Safari, Opera, hoặc Chrome — rất quan trọng vì 3 lý do:
@@ -157,7 +168,7 @@ Not that anyone blames you personally for staying loyal to your aging browser. I
 
 Old, outdated browsers are bad for us as users, and they hold back innovation all over the web. So take a moment to make sure that you’ve upgraded to the latest version of your favorite modern browser.
 
-Ghi chú của người viết: Để kiểm tra xem mình đang sử dụng trình duyệt nào, hãy truy cập `www.whatbrowser.org`.
+Ghi chú của người viết: Để kiểm tra xem mình đang sử dụng trình duyệt nào, hãy truy cập [What Browser](www.whatbrowser.org).
 
 # PLUG-INS
 ### OR, PEPPERONI FOR YOUR CHEESE PIZZA
@@ -167,6 +178,8 @@ Plug-ins were invented to work around the limitations of early HTML and deliver 
 interactive content. A plug-in is an additional piece of software that specializes in processing particular types of content. For example, users may download and install a plug-in like Adobe Flash Player to view a web page which contains a video or an interactive game.
 ﻿
 How much does a plug-in interface with a browser? Curiously, hardly at all. The plug-in model is a lot like picture-in-a-picture on TV: the browser defines a distinct space on the web page for the plug-in, then steps aside. The plug-in is free to operate inside that space, independent of the browser.
+
+![](http://www.20thingsilearned.com/media/illustrations/oldvsnewbrowsers02.png)
 
 This independence means that a particular plug-in can work across many different browsers. However, that ubiquity also makes plug-ins prime targets for browser security attacks. Your computer is even more vulnerable to security attacks if you’re running plug-ins that aren't up to date, because out-of-date plug-ins don’t contain the latest security fixes.
 
