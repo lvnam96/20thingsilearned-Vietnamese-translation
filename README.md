@@ -54,11 +54,11 @@ Modern computing in the age of the Internet is quite a strange, remarkable thing
 
 ![](http://www.20thingsilearned.com/media/illustrations/cloud03.png)
 
-This phenomenon is what we typically refer to as cloud computing. We now read the news, listen to music, shop, watch TV shows and store our files on the web. Some of us live in cities in which nearly every museum, bank, and government office has a website. The end result? We spend less time in lines or on the phone, as these websites allow us to do things like pay bills and make reservations. The movement of many of our daily tasks online enables us to live more fully in the real world.
+This phenomenon is what we typically refer to as cloud computing. Bây giờ chúng ta đọc tin tức, nghe nhạc, mua sắm, xem các chương trình TV và lưu trữ các tập tin của chúng ta trên mạng. Vài người trong chúng ta sống ở những thành phố mà hầu hết mỗi bảo tàng, ngân hàng, và văn phòng chính phủ đều có một website. The end result? We spend less time in lines or on the phone, vì những trang web này cho phép chúng ta làm những thứ như thanh toán các hoá đơn và make reservations. The movement of many of our daily tasks online enables us to live more fully in the real world.
 ﻿
 ![](http://www.20thingsilearned.com/media/illustrations/cloud02.png)
 
-Cloud computing offers other benefits as well. Not too long ago, many of us worried about losing our documents, photos and files if something bad happened to our computers, like a virus or a hardware malfunction. Today, our data is migrating beyond the boundaries of our personal computers. Instead, we’re moving our data online into “the cloud”. If you upload your photos, store critical files online and use a web-based email service like Gmail or Yahoo! Mail, an 18-wheel truck could run over your laptop and all your data would still safely reside on the web, accessible from any Internet-connected computer, anywhere in the world.
+Điện toán đám mây cũng cung cấp các tiện ích khác nữa. Cách đây không lâu, nhiều người trong số chúng ta đã lo lắng về việc thất thoát các văn bản, hình ảnh và tập tin của chúng ta nếu có gì đó tệ hại xảy ra với máy tính của mình, ví dụ như một con virus hoặc hư hỏng các thiết bị phần cứng. Ngày này, dữ liệu của chúng ta đang is migrating beyond the boundaries of our personal computers. Thay vào đó, chúng ta đưa dữ liệu của chúng ta trực tuyến trong các "đám mây". Nếu bạn tải lên các hình ảnh bạn chụp, lưu các tập tin critical trực tuyến và sử dụng một dịch vụ thư điện tử trên nền web như Gmail hoặc Yahoo! Mail, thì một chiếc xe tải với 18 cái bánh xe khổng lồ có thể cán qua cái laptop của bạn và tất cả dữ liệu của bạn sẽ vẫn được an toàn trên mạng, có thể được truy cập từ bất kì máy tính nào có kết nối Internet, tại bất kì đâu trên thế giới.
 
 # CÁC ỨNG DỤNG WEB
 ### "QUYỀN ĐƯỢC SỐNG, QUYỀN ĐƯỢC TỰ DO VÀ QUYỀN ĐƯỢC MƯU CẦU HẠNH PHÚC"
@@ -71,7 +71,7 @@ Nếu bạn chơi các trò chơi trực tuyến (game online), chỉnh sửa �
 
 Chính xác thì ứng dụng web là cái quái gì vậy? Và tại sao chúng ta nên để tâm đến nó?
 
-`App` trong cụm từ `web app` là từ viết tắt của `application` (ứng dụng). Các ứng dụng cũng thường được gọi là các chương trình hoặc phần mềm. Traditionally, they’ve been designed to do broad, intensive tasks like accounting or word processing. Trong thế giới trực tuyến của các trình duyệt web và điện thoại thông minh (smart phone), các ứng dụng thường là các chương trình gọn nhẹ tập trung vào 1 nhiệm vụ (task) nhất định . Đặc biệt là các ứng dụng web, chúng chạy các task bên trong trình duyệt web và thường cung cấp các trải nghiệm tương tác rất phong phú.
+`App` trong cụm từ `web app` (ứng dụng web) là từ viết tắt của `application`. Các ứng dụng cũng thường được gọi là các chương trình hoặc phần mềm. Traditionally, they’ve been designed to do broad, intensive tasks like accounting or word processing. Trong thế giới trực tuyến của các trình duyệt web và điện thoại thông minh (smart phone), các ứng dụng thường là các chương trình gọn nhẹ tập trung vào 1 nhiệm vụ (task) nhất định . Đặc biệt là các ứng dụng web, chúng chạy các task bên trong trình duyệt web và thường cung cấp các trải nghiệm tương tác rất phong phú.
 
 ![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
 
@@ -80,10 +80,10 @@ Google Maps là một ví dụ điển hình của ứng dụng web. Nó đượ
 **This brings us to four virtues of Web Appiness:**
 
 #### 1. Tôi có thể truy cập vào dữ liệu của tôi từ bất cứ đâu.
-In the traditional world of desktop applications, data is usually stored on my computer’s hard drive. If I’m on vacation and leave my computer at home, I can’t access my email, photos, or any of my data when I need it. In the new world of web apps, my email and all my data are stored online on the web. I can get to it on a web browser from any computer that’s connected to the Internet.
+Trong thế giới truyền thống của các ứng dụng desktop (máy tính để bàn), dữ liệu thường được lưu trữ trên ổ cứng của máy tính. Nếu tôi đang đi nghỉ mát và để máy tính ở nhà, tôi không thể truy cập vào thư điện tử, hình ảnh, hay bất kì dữ liệu nào của tôi khi tôi cần nó. Trong thế giới mới của các ứng dụng web, thư điện tử và tất cả dữ liệu của tôi được lưu trữ trực tuyến trên mạng, tôi có thể lấy chúng bằng một trình duyệt web từ mất kì máy tính nào có kế nối Internet.
 
 #### 2. Tôi sẽ luôn nhận được phiên bản mới nhất của bất kì ứng dụng nào.
-Which version of YouTube am I using today? What about tomorrow? The answer: Always the latest. Web apps update themselves automatically, so there’s always just one version: the latest version, with all the newest features and improvements. No need to manually upgrade to a new version every time. And I don’t have to go through a lengthy install process to use my web apps.
+Hôm này tôi sử dụng phiên bản nào của YouTube? Còn ngày mai thì sao? Câu trả lời là: Luôn luôn là bản mới nhất. Các ứng dụng web tự động cập nhật chúng, do đó luôn luôn chỉ có một phiên bản: phiên bản mới nhất với tất cả chức năng và sự cải thiện mới nhất. Không cần tự tay cập nhật một cách thủ công lên phiên bản mới mỗi lần nữa. Và tôi không phải trải qua mấy công đoạn dài ngoằng khi cài đặt để sử dụng các ứng dụng web.
 
 #### 3. Nó hoạt động trên mọi thiết bị có trình duyệt web.
 In traditional computing, some programs work only on particular systems or devices. For instance, many programs written for a PC won’t work on a Mac. Keeping up with all the right software can be time-consuming and costly. In contrast, the web is an open platform. Anyone can reach it from a browser on any web-connected device, regardless of whether it’s a desktop computer, laptop, or mobile phone. That means I can use my favorite web apps even if I’m using my friend’s laptop or a computer at an Internet cafe.
@@ -114,7 +114,7 @@ Web programmers often refer to this potent combination of JavaScript, XHR, CSS a
 
 ![](http://www.20thingsilearned.com/media/illustrations/html04.png)
 
-Today’s web has evolved from the ongoing efforts of all the technologists, thinkers, coders and organizations who create these web technologies and ensure that they’re supported in web browsers like Internet Explorer, Firefox, Safari and Google Chrome. This interaction between web technologies and browsers has made the web an open and friendly construction platform for web developers, who then bring to life many useful and fun web applications that we use daily.
+Today’s web has evolved from the ongoing efforts of all the technologists, thinkers, coders and organizations who create these web technologies and ensure that they’re supported in web browsers like Internet Explorer, **Firefox**, Safari and **Google Chrome**. This interaction between web technologies and browsers has made the web an open and friendly construction platform for web developers, who then bring to life many useful and fun web applications that we use daily.
 
 # HTML5
 ### SỰ KHỞI ĐẦU MỚI CỦA NƠI KHÔNG CÓ TAG `<VIDEO>`
@@ -156,7 +156,7 @@ Most importantly, 3D in the browser comes with all the goodness of web apps: you
 
 Most of us don’t realize how much an old and out-of-date web browser can negatively impact our online lives, particularly our online safety. You wouldn’t drive an old car with bald tires, bad brakes, and an unreliable engine for years on end. It’s a bad idea to take the same chances with the web browser that you use daily to navigate to every page and application on the web.
 
-Việc nâng cấp lên một trình duyệt hiện đại — như phiên bản mới nhất của Firefox, Safari, Opera, hoặc Chrome — rất quan trọng vì 3 lý do:
+Việc nâng cấp lên một trình duyệt hiện đại — như phiên bản mới nhất của **Firefox**, Safari, Opera, hoặc **Chrome** — rất quan trọng vì 3 lý do:
 
 First, old browsers are vulnerable to attacks, because they typically aren’t updated with the latest security fixes and features. Browser vulnerabilities can lead to stolen passwords, malicious software snuck secretly onto your computer, or worse. An up-to-date browser helps guard against security threats like phishing and malware.
 
