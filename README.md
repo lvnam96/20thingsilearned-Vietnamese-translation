@@ -51,7 +51,7 @@ Trong 2 chương tiếp theo, chúng ta sẽ xem coi ngày nay web được sử
 # ĐIỆN TOÁN ĐÁM MÂY
 ### TẠI SAO ĐỂ CHO MỘT CHIẾC XE TẢI CÁN QUA LAPTOP CỦA BẠN LÀ ĐIỀU QUÁ BÌNH THƯỜNG NUÔN?
 
-> laptop: máy tính xách tay; 
+> *laptop*: máy tính xách tay; 
 
 Điện toán hiện đại trong kỷ nguyên Internet là một thứ rất lạ lẫm. Khi bạn ngồi trước laptop của mình tại nhà xem một video trên Youtube hoặc sử dụng một công cụ tìm kiếm, bạn đang thật sự kết nối vào sức mạnh tổng hợp của hàng nghìn máy tính đang cung cấp tất cả những thông tin này cho bạn, từ những căn phòng được xây dựng ở rất xa được đặt khắp nơi trên thế giới. It’s almost like having a massive supercomputer at your beck and call, nhờ có Internet.
 
@@ -98,13 +98,14 @@ Những ứng dụng web chạy bên trong trình duyệt và tôi không bao gi
 # HTML, JAVASCRIPT, CSS VÀ NHIỀU HƠN THẾ NỮA
 ### AJAX TRONG BÀI VIẾT NÀY KHÔNG PHẢI ANH HÙNG AJAX MÀ MẸ BẠN BIẾT ĐÂU
 
->Ajax là một vị anh hùng trong cuộc chiến thành Troy.
+>- Ajax là một vị anh hùng trong cuộc chiến thành Troy.
+>- link: liên kết;
 
-Các trang web được viết trên HTML, một ngôn ngữ lập trình web "nói" cho các trình duyệt web biết làm thế nào để cấu trúc và trình bày nội dung trên một trang web. Nói cách khác. HTML cung cấp những "viên gạch" cơ bản để xây dựng nên một trang web. Và torng một khoảng thời gian dài ơi là dài, những viên gạch này "tĩnh" và chỉ rất đơn giản: những dòng văn bản, link và hình ảnh.
+Các trang web được viết trên HTML, một ngôn ngữ lập trình web "nói" cho các trình duyệt web biết làm thế nào để cấu trúc và trình bày nội dung trên một trang web. Nói cách khác. HTML cung cấp những "viên gạch" cơ bản để xây dựng nên một trang web. Và trong một khoảng thời gian dài ơi là dài, những viên gạch này "tĩnh" và chỉ rất đơn giản: những dòng văn bản, link và hình ảnh.
 
 ![](http://www.20thingsilearned.com/media/illustrations/html01.png)
 
-Ngày nay, chúng ta trông chờ có thể làm được những thứ như chơi cờ vua trực tuyến hoặc liên tục di chuyển đến các vị trí khác nhau trên một bản đồ, mà không cần phải tải lại trang với mỗi nước cờ hay mỗi lần di chuyển. Ý tưởng về các trang web "động" như vậy đã bắt đầu với việc phát minh ra ngôn ngữ kịch bản JavaScript. JavaScript hỗ trợ các trình duyệt web nổi tiếng nghĩa là các trang web có thể tích hợp các tương tác theo-thời-gian-thực hữu ích hơn. FVí dụ, nếu bạn vừa điền vào một biểu mẫu (mẫu đơn) trực tuyến và nhấn nút "Gửi", trang web có thể sử dụng JavaScript để kiểm tra xem các thông tin của bạn trong-thời-gian-thực và cảnh báo bạn hầu như ngay lập tức nếu bạn điền sai.
+Ngày nay, chúng ta trông chờ có thể làm được những thứ như chơi cờ vua trực tuyến hoặc liên tục di chuyển đến các vị trí khác nhau trên một bản đồ, mà không cần phải tải lại trang với mỗi nước cờ hay mỗi lần di chuyển. Ý tưởng về các trang web "động" như vậy đã bắt đầu với việc phát minh ra ngôn ngữ kịch bản JavaScript. JavaScript được hỗ trợ trong tất cả các trình duyệt web nổi tiếng, nghĩa là các trang web được chạy trên các trình duyệt đó có thể tích hợp các tương tác theo-thời-gian-thực hữu ích hơn. Ví dụ, nếu bạn vừa điền vào một biểu mẫu (mẫu đơn) trực tuyến và nhấn nút "Gửi", trang web có thể sử dụng JavaScript để kiểm tra xem các thông tin của bạn trong-thời-gian-thực và cảnh báo bạn hầu như ngay lập tức nếu bạn điền sai.
 
 ![](http://www.20thingsilearned.com/media/illustrations/html02.png)
 
@@ -475,8 +476,10 @@ The final takeaways?
 
 #### Đặc Biệt Gửi Lời Cảm Ơn Đến
 
-Brian Rakowski, Ian Fette, Chris DiBona, Alex Russell, Erik Kay, Jim Roskind, Mike Belshe, Dimitri Glazkov, Henry Bridge, Gregor Hochmuth, Jeffrey Chang, Mark Larson, Aaron Boodman, Wieland Holfelder, Jochen Eisinger, Bernhard Bauer, Adam Barth, Cory Ferreria, Erik Arvidsson, John Abd-Malek, Carlos Pizano, Justin Schuh, Wan-Teh Chang, Vangelis Kokkevis, Mike Jazayeri, Brad Chen, Darin Fisher, Johanna Wittig, Maxim Lobanov, Marion Fabing Nicolas, Jana Vorechovska, Daniele De Santis, Laura van Nigtevegt, Wojtek Cyprys, Dudley Carr, Richard Rabbat, Ji Lee, Glen Murphy, Valdean Klump, Aaron Koblin, Paul Irish, John Fu, Chris Wright, Sarah Nahm, Christos Apartoglou, Meredith Papp, Eric Antonow, Eitan Bencuya, Jay Nancarrow, Ben Lee, Gina Weakley, Linus Upson, Sundar Pichai & The Google Chrome Team
+Brian Rakowski, Ian Fette, Chris DiBona, Alex Russell, Erik Kay, Jim Roskind, Mike Belshe, Dimitri Glazkov, Henry Bridge, Gregor Hochmuth, Jeffrey Chang, Mark Larson, Aaron Boodman, Wieland Holfelder, Jochen Eisinger, Bernhard Bauer, Adam Barth, Cory Ferreria, Erik Arvidsson, John Abd-Malek, Carlos Pizano, Justin Schuh, Wan-Teh Chang, Vangelis Kokkevis, Mike Jazayeri, Brad Chen, Darin Fisher, Johanna Wittig, Maxim Lobanov, Marion Fabing Nicolas, Jana Vorechovska, Daniele De Santis, Laura van Nigtevegt, Wojtek Cyprys, Dudley Carr, Richard Rabbat, Ji Lee, Glen Murphy, Valdean Klump, Aaron Koblin, Paul Irish, John Fu, Chris Wright, Sarah Nahm, Christos Apartoglou, Meredith Papp, Eric Antonow, Eitan Bencuya, Jay Nancarrow, Ben Lee, Gina Weakley, Linus Upson, Sundar Pichai  & The Google Chrome Team
 
-*Built in HTML5*
+> Trong danh sách trên có một vài tên tuổi nổi tiếng, như: Sundar Pichai (CEO hiện tại của Google), Paul Irish (một trong  những JavaScript developer nổi tiếng hàng đầu hiện nay), Mark Larson, Brian Rakowski, Darin Fisher (cùng với Ben Goodger đã tạo nên Google Chrome từ con số 0, Mark Larson hiện là Program Manager của Google Chrome và Chromium), và các gương mặt có số có má khác...
 
-Published by Google 2010
+*Xây dựng bằng HTML5*
+
+Xuất bản bởi Google năm 2010
