@@ -1,15 +1,16 @@
 ### Ghi chú từ nhóm dịch:
->- Khung này sẽ đặt lời nhắn của nhóm dịch :sunglasses: Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó. 
->- Bài viết được dịch không theo văn phong của bài viết gốc, nhằm mục đích dịch dễ hiểu nhất có thể cho bạn. Nếu bạn không hiểu, bạn có thể chửi.
->- Bài viết này được xuất bản vào năm 2010, từ đó đến nay là một khoảng thời gian khá dài, do đó nội dung trong bài viết cũng sẽ có những thông tin lỗi thời, nhóm dịch sẽ thay thế, cập nhật lại và bổ sung thêm những thông tin cần thiết khác cho bạn.
+>- Những khung như thế này sẽ đặt lời nhắn của nhóm dịch :sunglasses: Không phải đoạn văn cũng nào xuất hiện khung này, vui lòng bỏ qua nếu bạn không có vấn đề gì với việc đọc hiểu đoạn văn đó. 
+>- Bài viết được dịch thoát nghĩa, vài chỗ dùng câu chữ không theo văn phong của bài viết gốc, nhằm mục đích dịch dễ hiểu nhất có thể cho bạn. Nếu bạn không hiểu, bạn có thể chửi.
+>- Một vài từ chúng tôi sẽ giữ nguyên không dịch, vì nếu bạn là một người sử dụng Internet và biết đến bài viết này, chúng tôi chắc chắn bạn đã biết và sử dụng những cụm từ tiếng Anh này thường xuyên rồi (ví dụ: email, game,...), giữ nguyên những cụm từ này sẽ giúp các bạn cảm thấy thân thuộc với nội dung bài viết hơn.
+>- Bài viết này được **Google Chrome Team xuất bản vào năm 2010**, từ đó đến nay là một khoảng thời gian khá dài, do đó nội dung trong bài viết cũng sẽ có những thông tin lỗi thời, nhóm dịch sẽ **cập nhật lại** những thông tin cần thiết khác cho bạn.
 
 # LỜI TỰA
 
->Trong chương này, nhóm dịch đã lược bỏ 1 đoạn không cần thiết để bạn có thể nắm được các ý chính của bài viết trong thời gian nhanh nhất.
+> Trong chương này, nhóm dịch đã lược bỏ 1 đoạn không cần thiết để bạn có thể nắm được các ý chính của bài viết trong thời gian nhanh nhất.
 
 Ngày nay rất nhiều người trong chúng ta phụ thuộc vào World Wide Web để mang lượng thông tin khổng lồ trên toàn thế giới về trong tầm tay của chúng ta, giúp chúng ta kết nối với mọi người và các sự kiện toàn cầu một cách tức thì.
 
-Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ có web, thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt (browser) của bất kì thiết bị nào có kết nối Internet trên thế giới.
+Những trải nghiệm trực tuyến tuyệt vời này có thể thành hiện thực nhờ có web, thứ mà có thể được truy cập bởi bất kì ai thông qua một trình duyệt của bất kì thiết bị nào có kết nối Internet trên thế giới.
 
 Nhưng web và các trình duyệt của chúng ta thực sự hoạt động như thế nào? Làm thế nào để World Wide Web đã phát triển thành thứ mà hiện tại chúng ta không thể sống thiếu nó? Và chúng ta cần biết những gì để "lướt" web an một cách an toàn và hiệu quả?
 
@@ -32,10 +33,10 @@ November 2010
 # INTERNET LÀ GÌ?
 ### "BẠN NÓI LÀ CÀ CHUA, TÔI NÓI LÀ TCP/IP"
 
-Thực chất thì Internet là cái gì? Với vài người trong chúng ta, Internet là nơi chúng ta giữ liên lạc với bạn bè, đọc tin tức, mua sắm, và chơi game. Với vài người khác, Internet có thể là các nhà cung cấp băng thông rộng ở địa phương của họ, hoặc những dây mạng ngầm và cáp quang mang dữ liệu qua lại giữa các thành phố và đại dương. Vậy thì ai mới đúng?
+Thực chất thì Internet là cái gì? Với vài người trong chúng ta, Internet là nơi chúng ta giữ liên lạc với bạn bè, đọc tin tức, mua sắm và chơi game. Với vài người khác, Internet có thể là các nhà cung cấp băng thông rộng ở địa phương của họ, hoặc những dây mạng ngầm và cáp quang mang dữ liệu qua lại giữa các thành phố và đại dương. Vậy thì ai mới đúng?
 Một nơi thích hợp để bắt đầu là lúc gần với the Very Beginning: 1974. Đó là năm mà một vài nhà nghiên cứu máy tính thông minh đã phát minh ra thứ gì đó gọi là Internet Protocol Suite, hay nói ngắn gọn là TCP/IP. TCP/IP đã tạo ra một bộ các quy tắc cho phép các máy tính "nói chuyện" với nhau và gửi thông tin qua lại.
 
-TCP/IP là một cái gì đó tương tự với cách giao tiếp của con người: khi chúng ta nói chuyện, các quy tắc văn phạm đã cung cấp cấu trúc cho lời nói để bảo đảm rằng chúng ta có thể hiểu nhau và trao đổi các suy nghĩ. Tương nhự như vậy, TCP/IP cung cấp những quy tắc giao tiếp để chắc chắn rằng các thiết bị được kết nối có thể hiểu nhau, từ đó chúng có thể gửi thông tin qua lại. Vì nhóm các thiết bị được kết nối với nhau đã phát triển từ phạm vi bên trong 1 căn phòng trở thành rất nhiều phòng — và sau đó là rất nhiều toàn nhà, đến nhiều thành phố và quốc gia — từ đó mạng Internet được hình thành.
+TCP/IP là một cái gì đó tương tự với cách giao tiếp của con người: khi chúng ta chém gió, các quy tắc văn phạm đã cung cấp cấu trúc cho lời nói để bảo đảm rằng chúng ta có thể hiểu nhau và trao đổi các suy nghĩ. Tương nhự như vậy, TCP/IP cung cấp những quy tắc giao tiếp để chắc chắn rằng các thiết bị được kết nối có thể hiểu nhau, từ đó chúng có thể gửi thông tin qua lại. Vì nhóm các thiết bị được kết nối với nhau đã phát triển từ phạm vi bên trong 1 căn phòng trở thành rất nhiều phòng — và sau đó là rất nhiều toàn nhà, đến nhiều thành phố và quốc gia — từ đó mạng Internet được hình thành.
 
 ![](http://www.20thingsilearned.com/media/illustrations/internet01.png)
 
@@ -50,28 +51,31 @@ Trong 2 chương tiếp theo, chúng ta sẽ xem coi ngày nay web được sử
 # ĐIỆN TOÁN ĐÁM MÂY
 ### TẠI SAO ĐỂ CHO MỘT CHIẾC XE TẢI CÁN QUA LAPTOP CỦA BẠN LÀ ĐIỀU QUÁ BÌNH THƯỜNG NUÔN?
 
-Modern computing in the age of the Internet is quite a strange, remarkable thing. As you sit hunched over your laptop at home watching a YouTube video or using a search engine, you’re actually plugging into the collective power of thousands of computers that serve all this information to you from far-away rooms distributed around the world. It’s almost like having a massive supercomputer at your beck and call, thanks to the Internet.
+> laptop: máy tính xách tay; 
+
+Điện toán hiện đại trong kỷ nguyên Internet là một thứ rất lạ lẫm. Khi bạn ngồi trước laptop của mình tại nhà xem một video trên Youtube hoặc sử dụng một công cụ tìm kiếm, bạn đang thật sự kết nối vào sức mạnh tổng hợp của hàng nghìn máy tính đang cung cấp tất cả những thông tin này cho bạn, từ những căn phòng được xây dựng ở rất xa được đặt khắp nơi trên thế giới. It’s almost like having a massive supercomputer at your beck and call, nhờ có Internet.
 
 ![](http://www.20thingsilearned.com/media/illustrations/cloud03.png)
 
-This phenomenon is what we typically refer to as cloud computing. Bây giờ chúng ta đọc tin tức, nghe nhạc, mua sắm, xem các chương trình TV và lưu trữ các tập tin của chúng ta trên mạng. Vài người trong chúng ta sống ở những thành phố mà hầu hết mỗi bảo tàng, ngân hàng, và văn phòng chính phủ đều có một website. The end result? We spend less time in lines or on the phone, vì những trang web này cho phép chúng ta làm những thứ như thanh toán các hoá đơn và make reservations. The movement of many of our daily tasks online enables us to live more fully in the real world.
+This phenomenon is what we typically refer to as cloud computing. Ngày nay chúng ta đọc tin tức, nghe nhạc, mua sắm, xem các chương trình TV và lưu trữ các tập tin của chúng ta trên mạng. Vài người trong chúng ta sống ở những thành phố mà hầu hết mỗi bảo tàng, ngân hàng, và văn phòng chính phủ đều có một website. Kết quả cuối cùng là gì? Chúng ta dành ít thời gian liên lạc qua điện thoại hay ở ngoài đường hơn, vì những trang web này cho phép chúng ta làm những thứ như thanh toán các hoá đơn hay đặt phòng trước chẳng hạn. Sự thay đổi này đã làm những công việc hằng ngày của chúng ta dần trở nên trực tuyến, cho phép chúng ta sống trọn vẹn hơn trong thế giới thực.
 ﻿
 ![](http://www.20thingsilearned.com/media/illustrations/cloud02.png)
 
-Điện toán đám mây cũng cung cấp các tiện ích khác nữa. Cách đây không lâu, nhiều người trong số chúng ta đã lo lắng về việc thất thoát các văn bản, hình ảnh và tập tin của chúng ta nếu có gì đó tệ hại xảy ra với máy tính của mình, ví dụ như một con virus hoặc hư hỏng các thiết bị phần cứng. Ngày này, dữ liệu của chúng ta đang is migrating beyond the boundaries of our personal computers. Thay vào đó, chúng ta đưa dữ liệu của chúng ta trực tuyến trong các "đám mây". Nếu bạn tải lên các hình ảnh bạn chụp, lưu các tập tin critical trực tuyến và sử dụng một dịch vụ thư điện tử trên nền web như Gmail hoặc Yahoo! Mail, thì một chiếc xe tải với 18 cái bánh xe khổng lồ có thể cán qua cái laptop của bạn và tất cả dữ liệu của bạn sẽ vẫn được an toàn trên mạng, có thể được truy cập từ bất kì máy tính nào có kết nối Internet, tại bất kì đâu trên thế giới.
+Điện toán đám mây cũng cung cấp các tiện ích khác nữa. Cách đây không lâu, nhiều người trong số chúng ta đã lo lắng về việc thất thoát các văn bản, hình ảnh và tập tin của chúng ta nếu có gì đó tệ hại xảy ra với máy tính của mình, ví dụ như một con virus hoặc hư hỏng các thiết bị phần cứng. Ngày nay, dữ liệu của chúng ta đang vượt ra ngoài ranh giới của những chiếc máy tính cá nhân. Thay vào đó, chúng ta đưa dữ liệu của chúng ta trực tuyến trên các "đám mây". Nếu bạn tải lên các hình ảnh bạn chụp, lưu các tập tin critical trực tuyến và sử dụng một dịch vụ thư điện tử trên nền web như Gmail hoặc Yahoo! Mail, thì dù có một chiếc xe tải với 18 cái bánh xe khổng lồ có thể cán bấy nhầy cái laptop của bạn đi nữa, tất cả dữ liệu của bạn sẽ vẫn được an toàn trên mạng, có thể được truy cập từ bất kì máy tính nào có kết nối Internet, tại bất kì đâu trên thế giới.
 
 # CÁC ỨNG DỤNG WEB
-### "QUYỀN ĐƯỢC SỐNG, QUYỀN ĐƯỢC TỰ DO VÀ QUYỀN ĐƯỢC MƯU CẦU HẠNH PHÚC"
+### "LIFE, LIBERTY, AND THE PURSUIT OF HAPPINESS"
 
->"Quyền được sống, quyền được tự do và quyền mưu cầu hạnh phúc" (life, liberty, and the pursuit of happiness) là 3 quyền cơ bản của con người được ghi trong Tuyên ngôn Độc lập của Mỹ. Cụm từ này rất nổi tiếng, các bạn có thể tìm hiểu trên Google.
+>- "Life, liberty, and the pursuit of happiness": "Quyền được sống, quyền được tự do và quyền được mưu cầu hạnh phúc" là 3 quyền cơ bản của con người được ghi trong Tuyên ngôn Độc lập của Mỹ. Cụm từ này rất nổi tiếng, mình mới biết khi dịch bài này thôi =)).
+>- *game online*: trò chơi trực tuyến; *web app*: ứng dụng web; *task*: nhiệm vụ; *desktop*: máy tính để bàn; *PC*: (personal computer) máy tính cá nhân; *email*: thư điện tử; *smart phone*: điện thoại thông minh; 
 
-Nếu bạn chơi các trò chơi trực tuyến (game online), chỉnh sửa ảnh trực tuyến, hay đang dùng những dịch vụ trên nền web như Google Maps, Twitter, Amazon, YouTube hay Facebook, điều đó có nghĩa bạn là một công dân tích cực trong thế giới nhiệm màu của các ứng dụng web rồi.
+Nếu bạn chơi các game online, chỉnh sửa ảnh trực tuyến, hay đang dùng những dịch vụ trên nền web như Google Maps, Twitter, Amazon, YouTube hay Facebook, điều đó có nghĩa bạn là một công dân tích cực trong thế giới nhiệm màu của các ứng dụng web rồi đấy.
 
 ![](http://www.20thingsilearned.com/media/illustrations/webapps01.png)
 
 Chính xác thì ứng dụng web là cái quái gì vậy? Và tại sao chúng ta nên để tâm đến nó?
 
-`App` trong cụm từ `web app` (ứng dụng web) là từ viết tắt của `application`. Các ứng dụng cũng thường được gọi là các chương trình hoặc phần mềm. Traditionally, they’ve been designed to do broad, intensive tasks like accounting or word processing. Trong thế giới trực tuyến của các trình duyệt web và điện thoại thông minh (smart phone), các ứng dụng thường là các chương trình gọn nhẹ tập trung vào 1 nhiệm vụ (task) nhất định . Đặc biệt là các ứng dụng web, chúng chạy các task bên trong trình duyệt web và thường cung cấp các trải nghiệm tương tác rất phong phú.
+`App` trong cụm từ `*web app*` là từ viết tắt của `application`. Các ứng dụng cũng thường được gọi là các chương trình hoặc phần mềm. Trước đây, chúng được thiết kế ra để thực hiện các công việc quy mô lớn và chuyên sâu như tính toán hoặc xử lí văn bản. Còn trong thế giới trực tuyến của các trình duyệt web và smart phone, các ứng dụng thường là các chương trình gọn nhẹ tập trung vào 1 task nhất định. Đặc biệt là các ứng dụng web, chúng chạy các task bên trong trình duyệt web và thường cung cấp các trải nghiệm tương tác rất phong phú.
 
 ![](http://www.20thingsilearned.com/media/illustrations/webapps02.png)
 
@@ -80,27 +84,27 @@ Google Maps là một ví dụ điển hình của ứng dụng web. Nó đượ
 **This brings us to four virtues of Web Appiness:**
 
 #### 1. Tôi có thể truy cập vào dữ liệu của tôi từ bất cứ đâu.
-Trong thế giới truyền thống của các ứng dụng desktop (máy tính để bàn), dữ liệu thường được lưu trữ trên ổ cứng của máy tính. Nếu tôi đang đi nghỉ mát và để máy tính ở nhà, tôi không thể truy cập vào thư điện tử, hình ảnh, hay bất kì dữ liệu nào của tôi khi tôi cần nó. Trong thế giới mới của các ứng dụng web, thư điện tử và tất cả dữ liệu của tôi được lưu trữ trực tuyến trên mạng, tôi có thể lấy chúng bằng một trình duyệt web từ mất kì máy tính nào có kế nối Internet.
+Trong thế giới truyền thống của các ứng dụng desktop, dữ liệu thường được lưu trữ trên ổ cứng của máy tính. Nếu tôi đang đi nghỉ mát và để máy tính ở nhà, tôi không thể truy cập vào email, hình ảnh, hay bất kì dữ liệu nào của tôi khi tôi cần nó. Trong thế giới mới của các ứng dụng web, email và tất cả dữ liệu của tôi được lưu trữ trực tuyến trên mạng, tôi có thể lấy chúng bằng một trình duyệt web từ bất kì máy tính nào có kế nối Internet.
 
 #### 2. Tôi sẽ luôn nhận được phiên bản mới nhất của bất kì ứng dụng nào.
-Hôm này tôi sử dụng phiên bản nào của YouTube? Còn ngày mai thì sao? Câu trả lời là: Luôn luôn là bản mới nhất. Các ứng dụng web tự động cập nhật chúng, do đó luôn luôn chỉ có một phiên bản: phiên bản mới nhất với tất cả chức năng và sự cải thiện mới nhất. Không cần tự tay cập nhật một cách thủ công lên phiên bản mới mỗi lần nữa. Và tôi không phải trải qua mấy công đoạn dài ngoằng khi cài đặt để sử dụng các ứng dụng web.
+Hôm nay tôi sử dụng phiên bản nào của YouTube? Còn ngày mai thì sao? Câu trả lời là: Luôn luôn là bản mới nhất. Các ứng dụng web tự động cập nhật chúng, do đó luôn luôn chỉ có một phiên bản: phiên bản mới nhất với tất cả chức năng và sự cải thiện mới nhất. Không cần tự tay cập nhật một cách thủ công lên phiên bản mới nữa. Và tôi không phải trải qua mấy công đoạn dài ngoằng khi cài đặt để sử dụng các ứng dụng web.
 
 #### 3. Nó hoạt động trên mọi thiết bị có trình duyệt web.
-In traditional computing, some programs work only on particular systems or devices. For instance, many programs written for a PC won’t work on a Mac. Keeping up with all the right software can be time-consuming and costly. In contrast, the web is an open platform. Anyone can reach it from a browser on any web-connected device, regardless of whether it’s a desktop computer, laptop, or mobile phone. That means I can use my favorite web apps even if I’m using my friend’s laptop or a computer at an Internet cafe.
+Với điện toán truyền thống, vài chương trình chỉ hoạt động trên những hệ thống hoặc thiết bị nhất định. Ví dụ, nhiều chương trình được viết cho PC sẽ không hoạt động trên các máy Mac. Việc bắt kịp các thiết bị với phầm mềm có thể rất tốn kém và mất nhiều thời gian. Ngược lại, web là một nền tảng mở. Bất cứ ai cũng có thể truy cập nó từ một trình duyệt trên bất kì thiết bị nào có kết nối nối mạng, dù nó là desktop, laptop hay điện thoại di động. Điều đó có nghĩa là tôi có thể sử dụng những ứng dụng web yêu thích ngay cả khi tôi đang sử dụng laptop của một người bạn hay máy tính công cộng ngoài quán cà phê.
 
 #### 4. Nó an toàn hơn.
-Web apps run in the browser and I never have to download them onto my computer. Because of this separation between the app code and my computer’s code, web apps can’t interfere with other tasks on my computer or the overall performance of my machine. This means that I’m better protected from threats like viruses, malware and spyware.
+Những ứng dụng web chạy bên trong trình duyệt và tôi không bao giờ cần phải tải chúng xuống máy tính của tôi. Vì sự khác biệt giữa mã ứng dụng và mã của máy tính của tôi, các ứng dụng web không thể can thiệp vào các tác vụ khác hay hiệu suất tổng thể của máy tính của tôi. Nghĩa là tôi được bảo vệ tốt hơn trước các mối đe doạ như virus, phần mềm độc hại và phần mềm gián điệp.
 
 # HTML, JAVASCRIPT, CSS VÀ NHIỀU HƠN THẾ NỮA
 ### AJAX TRONG BÀI VIẾT NÀY KHÔNG PHẢI ANH HÙNG AJAX MÀ MẸ BẠN BIẾT ĐÂU
 
 >Ajax là một vị anh hùng trong cuộc chiến thành Troy.
 
-Web pages are written in HTML, the web programming language that tells web browsers how to structure and present content on a web page. In other words, HTML provides the basic building blocks for the web. And for a long time, those building blocks were pretty simple and static: lines of text, links and images.
+Các trang web được viết trên HTML, một ngôn ngữ lập trình web "nói" cho các trình duyệt web biết làm thế nào để cấu trúc và trình bày nội dung trên một trang web. Nói cách khác. HTML cung cấp những "viên gạch" cơ bản để xây dựng nên một trang web. Và torng một khoảng thời gian dài ơi là dài, những viên gạch này "tĩnh" và chỉ rất đơn giản: những dòng văn bản, link và hình ảnh.
 
 ![](http://www.20thingsilearned.com/media/illustrations/html01.png)
 
-Today, we expect to be able to do things like play online chess or seamlessly scroll around a map of our neighborhood, without waiting for the entire page to reload for every chess move or every map scroll. The idea of such dynamic web pages began with the invention of the scripting language JavaScript. JavaScript support in major web browsers meant that web pages could incorporate more meaningful real-time interactions. For example, if you’ve filled out an online form and hit the “submit” button, the web page can use JavaScript to check your entries in real-time and alert you almost instantly if you had filled out the form incorrectly.
+Ngày nay, chúng ta trông chờ có thể làm được những thứ như chơi cờ vua trực tuyến hoặc liên tục di chuyển đến các vị trí khác nhau trên một bản đồ, mà không cần phải tải lại trang với mỗi nước cờ hay mỗi lần di chuyển. Ý tưởng về các trang web "động" như vậy đã bắt đầu với việc phát minh ra ngôn ngữ kịch bản JavaScript. JavaScript hỗ trợ các trình duyệt web nổi tiếng nghĩa là các trang web có thể tích hợp các tương tác theo-thời-gian-thực hữu ích hơn. FVí dụ, nếu bạn vừa điền vào một biểu mẫu (mẫu đơn) trực tuyến và nhấn nút "Gửi", trang web có thể sử dụng JavaScript để kiểm tra xem các thông tin của bạn trong-thời-gian-thực và cảnh báo bạn hầu như ngay lập tức nếu bạn điền sai.
 
 ![](http://www.20thingsilearned.com/media/illustrations/html02.png)
 
