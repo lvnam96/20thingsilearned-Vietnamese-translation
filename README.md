@@ -109,17 +109,17 @@ Ngày nay, chúng ta trông chờ có thể làm được những thứ như ch�
 
 ![](http://www.20thingsilearned.com/media/illustrations/html02.png)
 
-But the dynamic web as we know it today truly came to life when XHR (XMLHttpRequest) was introduced into JavaScript, and first used in web applications like Microsoft Outlook for the Web, Gmail and Google Maps. XHR enabled individual parts of a web page — a game, a map, a video, a little survey — to be altered without needing to reload the entire page. As a result, web apps are faster and more responsive.
+Nhưng web "động" mà chúng ta biết ngày nay trở thành sự thật khi XHR (XMLHttpRequest) được giới thiệu trong JavaScript, và lần đầu tiên được sử dụng trong các ứng dụng web như Microsoft Outlook for the Web, Gmail và Google Maps. XHR cho phép các phần riêng lẻ của trang web - một game, một bản đồ, một video, một cuộc khảo sát nhỏ - được thay đổi mà không cần phải tải lại toàn bộ trang. Kết quả là các ứng dụng web trở nên nhanh hơn và đáp ứng được nhiều hơn.
 
 ![](http://www.20thingsilearned.com/media/illustrations/html03.png)
 
-Web pages have also become more expressive with the introduction of CSS (Cascading Style Sheets). CSS gives programmers an easy, efficient way to define a web page’s layout and beautify the page with design elements like colors, rounded corners, gradients, and animation.
+Các trang web cũng trở nên sống động hơn với sự xuất hiện của CSS (Cascading Style Sheets). CSS giúp các lập trình viên xác định bố cục của trang web và làm đẹp chúng bằng các yếu tố thiết kế như màu sắc, góc bo tròn, dải màu, hiệu ứng,... một cách dễ dàng và hiệu quả.
 
-Web programmers often refer to this potent combination of JavaScript, XHR, CSS and several other web technologies as AJAX (Asynchronous JavaScript and XML). HTML has also continued to evolve as more features and improvements are incorporated into new versions of the HTML standard.
+Các lập trình viên web thường đề cập đến sự kết hợp mạnh mẽ của JavaScript, XHR, CSS và một số công nghệ web khác như AJAX (Asynchronous JavaScript and XML). HTML cũng tiếp tục phát triển khi có thêm nhiều tính năng và cải tiến được tích hợp vào các phiên bản mới của bộ các tiêu chuẩn HTML.
 
 ![](http://www.20thingsilearned.com/media/illustrations/html04.png)
 
-Today’s web has evolved from the ongoing efforts of all the technologists, thinkers, coders and organizations who create these web technologies and ensure that they’re supported in web browsers like Internet Explorer, **Firefox**, Safari and **Google Chrome**. This interaction between web technologies and browsers has made the web an open and friendly construction platform for web developers, who then bring to life many useful and fun web applications that we use daily.
+Web ngày nay đã phát triển từ những nỗ lực không ngừng nghỉ của tất cả các nhà công nghệ, các nhà tư tưởng, các lập trình viên và các tổ chức đã tạo ra các công nghệ web này và đảm bảo rằng chúng được hỗ trợ trong các trình duyệt web như Internet Explorer, Edge, **Firefox**, Safari và **Google Chrome**. Sự tương tác giữa các công nghệ web và các trình duyệt đã làm cho web là một nền tảng mở và thân thiện dành cho các nhà phát triển web, những người sau đó mang lại nhiều ứng dụng web hữu ích và thú vị mà chúng ta sử dụng hàng ngày.
 
 # HTML5
 ### SỰ KHỞI ĐẦU MỚI CỦA NƠI KHÔNG CÓ TAG `<VIDEO>`
